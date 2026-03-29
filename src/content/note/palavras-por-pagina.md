@@ -1,7 +1,7 @@
 ---
 title: "Quantas palavras para uma página de livro?"
 description: "Uma referência rápida para calibrar o tamanho de textos."
-publishDate: "2026-03-30T12:00:00-03:00"
+publishDate: "2026-03-30T00:00:00Z"
 ---
 
 Uma página padrão de livro (formato 6×9", o mais comum em publicação tradicional) comporta entre **250 e 300 palavras** — usando fonte 12pt, margens de 2,5cm e parágrafo indentado. Para referência rápida, 250 palavras é o número seguro.
