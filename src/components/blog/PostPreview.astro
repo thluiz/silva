@@ -17,5 +17,8 @@ const { as: Tag = "div", post, withDesc = false } = Astro.props;
 	<a class="cactus-link" href={`/posts/${post.id}/`}>
 		{post.data.title}
 	</a>
+	{post.data.lang === "en" && (
+		<span class="text-muted ml-2 rounded border px-1 text-xs font-normal">EN</span>
+	)}
 </Tag>
 {withDesc && <q class="line-clamp-3 italic">{post.data.description}</q>}
