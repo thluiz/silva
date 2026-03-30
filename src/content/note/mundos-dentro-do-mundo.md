@@ -1,5 +1,5 @@
 ---
-title: "Mundos dentro do mundo: triplo sentido de 'O Mundo Fora da Pedra'"
+title: "Triplo sentido de 'O Mundo Fora da Pedra'"
 publishDate: "2026-03-30T09:40:00+01:00"
 tags: ["filosofia", "literatura"]
 ---
