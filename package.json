@@ -6,7 +6,7 @@
 	"scripts": {
 		"postinstall": "npm rebuild sharp --force",
 		"dev": "astro dev",
-		"start": "astro dev",
+		"start": "astro dev --port 4322",
 		"build": "astro build",
 		"postbuild": "pagefind --site dist",
 		"preview": "astro preview",
