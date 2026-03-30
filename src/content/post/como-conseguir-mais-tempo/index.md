@@ -1,13 +1,16 @@
 ---
 title: "Como conseguir mais tempo"
 description: "Algumas palavras sobre como conseguir mais tempo"
-publishDate: "2019-11-05"
+publishDate: "2019-11-25"
 tags: ["vida kung fu", "sam faat", "心法", "etd", "historietas"]
 lang: "pt"
 pinned: true
+coverImage:
+  src: "./amanda-jones-CcIIao_-Eow-unsplash-cropped.jpg"
+  alt: "Foto por Amanda Jones no Unsplash"
 ---
 <p style='text-align: right;font-style: italic;color:#338833'>
-Quem não entende um olhar tampouco pode compreender uma grande explicação.
+Quem não entende um olhar tampouco pode compreender uma grande&nbsp;explicação.
 <br />
 ~ Manuel Bandeira
 </p>
