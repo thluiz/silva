@@ -2,7 +2,6 @@
 title: "Por que parei de entrevistar em empresas que exigem coding test"
 publishDate: "2022-02-27T14:16:47Z"
 tags: ["tecnico", "carreira"]
-lang: "pt"
 ---
 
 Bradston Henry não é contra coding tests em geral — é contra empresas que os tornam **obrigatórios** sem alternativa, usando-os como único portão de entrada.
