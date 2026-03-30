@@ -1,5 +1,5 @@
 ---
-title: "Por que parei de entrevistar em empresas que exigem coding test"
+title: "Coding tests obrigatórios — por que parei"
 publishDate: "2022-02-27T14:16:47Z"
 tags: ["tecnico", "carreira"]
 ---
