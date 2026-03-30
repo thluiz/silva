@@ -4,6 +4,7 @@ description: "Algumas palavras sobre como conseguir mais tempo"
 publishDate: "2019-11-05"
 tags: ["vida kung fu", "sam faat", "心法", "etd", "historietas"]
 lang: "pt"
+pinned: true
 ---
 <p style='text-align: right;font-style: italic;color:#338833'>
 Quem não entende um olhar tampouco pode compreender uma grande explicação.
