@@ -2,6 +2,7 @@
 title: "Ritmo de fala e palavras"
 description: "Quanto tempo de fala equivale a quantas palavras — e a quantas páginas de livro."
 publishDate: "2026-03-30T08:55:00+01:00"
+tags: ["escrita"]
 ---
 
 Fala em ritmo normal: **130–150 palavras/minuto**. Em discurso público cuidadoso, o intervalo aceito é 120–160 wpm — abaixo de 110 é lento demais, acima de 160 começa a comprometer a compreensão ([Write Out Loud](https://www.write-out-loud.com/speech-rate.html)). Usando 140 como referência:
