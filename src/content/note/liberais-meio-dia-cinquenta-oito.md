@@ -5,3 +5,5 @@ tags: ["filosofia", "política", "piada"]
 ---
 
 > "O problema é que estamos com vários liberais meio-dia e cinquenta e oito: uma hora eles viram fascistas."
+
+Fonte: [Nova era geopolítica — Velho dos Livros / Luís Felipe Valle / Kritike Podcast](https://vox.thluiz.com/2026/03/W13/nova-era-geopolitica-velho-dos-livros-luis-felipe-valle-kritike-podcast)
