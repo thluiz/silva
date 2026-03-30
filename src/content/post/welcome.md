@@ -14,3 +14,5 @@ As *Silvae* sobreviveram dois mil anos.
 Este é o lugar onde deposito o que ainda não sei bem o que é — pensamentos que ainda não viraram tese, observações que ainda não viraram sistema, práticas que ainda não viraram método.
 
 Matéria bruta. Silva.
+
+[Sobre o nome e quem escreve →](/about/)
