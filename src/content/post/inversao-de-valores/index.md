@@ -1,16 +1,19 @@
 ---
 title: "Inversão de Valores"
 description: "Algumas palavras sobre uma historieta que o Si Fu nos contou"
-publishDate: "2019-11-04"
+publishDate: "2019-11-05"
 tags: ["vida kung fu", "sam faat", "心法", "historietas"]
 lang: "pt"
+coverImage:
+  src: "./armando-ascorve-morales-XpmsZmAMf_g-unsplash-crop.jpg"
+  alt: "Foto por Armando Ascorve Morales no Unsplash"
 ---
 Certa vez [Si Fu](http://mestrejuliocamacho.com "Mestre Julio Camacho") nos contou a seguinte historieta: 
 
  _Uma menina curiosa de uma família muito rica estava auxiliando sua mãe no preparo do jantar. Sua mãe pegava um Filet Mignon e ia "descascando" a carne até sobrar apenas seu miolo com um vermelho bem vivo e fresco._ 
 
 
-![Só o medalhão do filet](/blog/inversao-de-valores/wesual-click-DxJvLtab4ak-unsplash-crop.jpg "https://unsplash.com/@wesual")
+![Só o medalhão do filet](./wesual-click-DxJvLtab4ak-unsplash-crop.jpg "https://unsplash.com/@wesual")
 
  
 *Intrigada a menina perguntou: __"Mamãe, o que fazemos com toda essa carne que sobra?"__*
@@ -29,7 +32,7 @@ Certa vez [Si Fu](http://mestrejuliocamacho.com "Mestre Julio Camacho") nos cont
 
 *— __"Diacho, Menina! Coisa da sua Avó, sempre fizemos assim."__*
 
-![Visitando a Vovó](/blog/inversao-de-valores/annie-spratt-s0eeLwNxcns-unsplash-cropped.jpg "https://unsplash.com/@anniespratt")
+![Visitando a Vovó](./annie-spratt-s0eeLwNxcns-unsplash-cropped.jpg "https://unsplash.com/@anniespratt")
 
 *Naquela noite a menina mal dormiu, estava ainda mais incomodada e decidiu que iria tirar essa história a limpo. Partiu para a casa dos avós impaciente, ao chegar já sentindo o cheiro do almoço, correu para a cozinha e saiu perguntando:*
 
@@ -47,7 +50,7 @@ Certa vez [Si Fu](http://mestrejuliocamacho.com "Mestre Julio Camacho") nos cont
 
 <hr />
 
-A história vai até aí. Dado o título já é possível concluir a mensagem principal dela: A limpeza da carne para salvar o que fosse possível, se tornara o motor um desperdício sem propósito, descartando partes valiosas do conteúdo. Colocando uma "Lente Kung Fu ([功夫](https://algumaspalavras.com.br/etimologia-do-termo-kung-fu))" fica claro o quanto podemos deturpar um processo ao executá-lo sem atentar para seu [念頭](https://www.mdbg.net/chinese/dictionary?page=word dict&wdrst=0&wdqb=%E5%BF%B5%E9%A0%AD) (niàntou / nim6tau4). 
+A história vai até aí. Dado o título já é possível concluir a mensagem principal dela: A limpeza da carne para salvar o que fosse possível, se tornara o motor um desperdício sem propósito, descartando partes valiosas do conteúdo. Colocando uma "Lente Kung Fu ([功夫](https://algumaspalavras.com.br/etimologia-do-termo-kung-fu))" fica claro o quanto podemos deturpar um processo ao executá-lo sem atentar para seu [念頭](https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb=%E5%BF%B5%E9%A0%AD) (niàntou / nim6tau4). 
 
 Logo, mesmo no mais simples procedimento podemos estar condenando todas gerações futuras, traindo todo o objetivo original. Aliás, [Si Fu](http://mestrejuliocamacho.com "Mestre Julio Camacho") sempre comenta que Traição e Tradição tem a mesma raíz etimológica, mas deixaremos algumas palavras sobre isso no futuro.
 
