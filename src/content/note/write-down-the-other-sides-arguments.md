@@ -1,5 +1,6 @@
 ---
 title: "Write down the other side's arguments"
+publishDate: "2026-03-31T12:00:00+01:00"
 tags: ["humility", "professional-development", "mindset"]
 ---
 
