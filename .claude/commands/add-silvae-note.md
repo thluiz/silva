@@ -26,7 +26,7 @@ Se algum dos três estiver ausente, pergunte antes de continuar.
 ```
 ---
 title: "<título>"
-publishDate: "<hoje em ISO 8601 com offset +01:00, ex: 2026-03-31T12:00:00+01:00>"
+publishDate: "YYYY-MM-DDTHH:MM:SS+01:00"
 tags: ["tag1", "tag2"]
 ---
 
@@ -41,7 +41,7 @@ Fonte: <fonte formatada como link markdown se for URL>
 
 ## Regras
 
-- **`publishDate` é OBRIGATÓRIO** — o build falha com `publishDate: Required` se omitido. Sempre incluir.
+- **`publishDate` é OBRIGATÓRIO e deve incluir data + hora + offset** — formato exato: `"YYYY-MM-DDTHH:MM:SS+01:00"`. Build falha se omitido ou se for só uma data sem hora.
 - Título máx 60 chars (schema `z.string().max(60)` — build falha se exceder)
 - Sem campo `lang` (só existe no schema de posts, não de notas)
 - Fonte sempre na última linha, separada por linha em branco
