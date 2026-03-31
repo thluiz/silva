@@ -16,5 +16,5 @@ cantonese:
 
 Fontes:
 - [Systems Thinking: A Comparison between Chinese and Western Approaches — ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1877050913001099)
-- [The Foundation of Chinese Systems Thinking — The East Asian Dialogue](https://theeadialogue.com/the-foundation-of-chinese-systems-thinking/)
+- [Yinyang Wuxing — Encyclopedia.com](https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/yinyang-wuxing)
 - [Cantonese Dictionary — 系統](https://www.cantonese.sheik.co.uk/dictionary/words/3130/)
