@@ -41,6 +41,7 @@ Fonte: <fonte formatada como link markdown se for URL>
 
 ## Regras
 
+- **`publishDate` é OBRIGATÓRIO** — o build falha com `publishDate: Required` se omitido. Sempre incluir.
 - Título máx 60 chars (schema `z.string().max(60)` — build falha se exceder)
 - Sem campo `lang` (só existe no schema de posts, não de notas)
 - Fonte sempre na última linha, separada por linha em branco
