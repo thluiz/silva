@@ -1,6 +1,6 @@
 ---
 title: "Naturalização, desejo e estratégia política"
-publishDate: 2026-03-31T15:55:40Z
+publishDate: "2026-03-31T16:08:00+01:00"
 tags:
   - realismo-capitalista
   - mark-fischer
