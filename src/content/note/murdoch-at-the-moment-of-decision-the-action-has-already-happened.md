@@ -1,5 +1,5 @@
 ---
-title: "Murdoch: at the moment of decision, the action has already happened"
+title: "Murdoch: at the moment of decision, it's done"
 publishDate: "2026-04-02T12:05:00-03:00"
 tags: ["philosophy", "attention", "ethics"]
 ---
