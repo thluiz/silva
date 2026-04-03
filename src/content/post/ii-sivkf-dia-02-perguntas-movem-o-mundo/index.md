@@ -19,7 +19,7 @@ A premiação foi criada como uma sátira ao prêmio Nobel, a ideia é identific
 
 Quando temos acesso a um "Eureka", não percebemos que o velho Arquimedes deitou numa banheira e ficou pensando o porquê o patinho de borracha subia, por que o banheiro dele ficava todo molhado quando ele pulava nu e flácido na água, ou porque ele ficava mais leve relaxando boiando.
 
-![Arquimedes na banheira (gerado por IA)](./arquimedes.jpg)
+![Conversa durante a II Imersão na Flórida](./arquimedes.jpg)
 
 As pessoas costumam me conhecer por ser uma pessoa que sabe de tudo, ser inteligente, e quase sempre se surpreendem quando me fazem uma pergunta de trivialidades que eu não sei a resposta. Eu sempre explico que esse é o meu truque: Sou uma pessoa curiosa, sempre que alguém me faz uma pergunta que eu não sei, eu jogo num cantinho mental e vou pesquisar. Faça isso por anos a fio e você vira uma enciclopédia de inutilidades como eu.
 
@@ -48,5 +48,3 @@ Até!
 *Thiago Silva*
 *Moy Chi Yau Si*
 *梅 知 友 士*
-
-*Crédito da imagem: Gerada pelo Bing/DALL-E; prompt: "queria uma imagem do Arquimedes numa banheira com um patinho"*
