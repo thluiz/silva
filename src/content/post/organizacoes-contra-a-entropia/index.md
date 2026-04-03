@@ -33,15 +33,17 @@ Podemos extrapolar a lógica: um líder "controla" 150 pessoas, que controlam ou
 
 O Walmart é o maior empregador privado do mundo com 2,1 milhões de funcionários. É mais gente do que a população de muitas capitais. O segundo maior é a Amazon, com 1,5 milhão. Pensei em coisas que realmente importam:
 
-Pesquisar monumentos, me frustrei ao descobrir que as pirâmides provavelmente não empregaram mais do que 20 a 30 mil trabalhadores (sim, trabalhadores, não há indícios de que fossem escravizados). Duas obras chinesas se destacam: a Grande Muralha da China, com 1 a 3 milhões em cada dinastia, e o Grande Canal da China, com estimativa de até 5,5 milhões.
+Ao pesquisar monumentos, me frustrei ao descobrir que as pirâmides provavelmente não empregaram mais do que 20 a 30 mil trabalhadores (sim, trabalhadores, não há indícios de que fossem escravizados). Duas obras chinesas se destacam: a Grande Muralha da China, com 1 a 3 milhões em cada dinastia, e o Grande Canal da China, com estimativa de até 5,5 milhões.
 
 Números mais interessantes, mas ainda pouca gente trabalhando para um fim comum.
 
-Seguindo no aumento de importância: guerras. Os EUA mobilizaram 16 milhões de pessoas durante a Segunda Guerra. A Alemanha, 18 milhões. A União Soviética, quase 35 milhões. Mas exércitos são temporários. Acabou a guerra, desmobilizou. E o que é mais importante do que administrar a vida das pessoas? As guerras são muitas vezes proporcionadas por estados nações grandes demais para se conterem.
+Seguindo no aumento de importância: guerras. Os EUA mobilizaram 16 milhões de pessoas durante a Segunda Guerra. A Alemanha, 18 milhões. A União Soviética, quase 35 milhões. Mas exércitos são temporários. Acabou a guerra, desmobilizou. O que é mais importante do que administrar a vida das pessoas? As guerras são muitas vezes proporcionadas por estados-nações grandes demais para se conterem.
 
-No quesito Estados os números começam a ficar mais interessantes: o governo britânico emprega quase 6 milhões de pessoas no setor público para 67 milhões de habitantes, um funcionário para cada 11. Os Estados Unidos da América, cerca de 24 milhões somando federal, estadual e municipal para 335 milhões de habitantes, um funcionário para cada 14.
+No quesito Estados, os números começam a ficar mais interessantes: o governo britânico emprega quase 6 milhões de pessoas no setor público para 67 milhões de habitantes, um funcionário para cada 11.
 
-No oriente a Índia, com seus 8 milhões de funcionários federais e estaduais (e 1,2 milhão só nas ferrovias), administra 1,4 bilhão de pessoas num sistema que celebra o caos como método.
+Os Estados Unidos da América, cerca de 24 milhões somando federal, estadual e municipal para 335 milhões de habitantes, um funcionário para cada 14.
+
+No oriente, a Índia, com seus 8 milhões de funcionários federais e estaduais (e 1,2 milhão só nas ferrovias), administra 1,4 bilhão de pessoas num sistema que celebra o caos como método.
 
 A China novamente se destaca: somando o funcionalismo público e as empresas estatais, são mais de 56 milhões de pessoas. Se incluirmos saúde e educação pública, passa de 80 milhões. Um em cada quatro trabalhadores urbanos chineses trabalha para o Estado.
 
@@ -55,8 +57,7 @@ A dinastia Qing administrava quase 400 milhões de pessoas com algo entre 20 e 3
 
 O instrumento era o sistema de exames imperiais, o keju (科舉, literalmente "selecionar por exame"). Estabelecido em 605 d.C., abolido em 1905. Mil e trezentos anos de operação contínua. Na dinastia Ming, apenas 90 pessoas por ano recebiam o grau máximo de uma base de milhões de candidatos. Uma taxa de aprovação que faz qualquer vestibular parecer brincadeira.
 
-O keju não selecionava competência técnica. Selecionava domínio dos clássicos confucianos. Era uma máquina de alinhamento cultural. O sistema compensava a burocracia mínima delegando para estruturas locais: clãs, anciãos de aldeia, shēnshì (紳士, a elite letrada local que não chegou a ocupar cargos imperiais mas detinha prestígio e autoridade na comunidade). Uma governança fractal onde o centro definia a doutrina e a execução era local.
-
+O keju não selecionava competência técnica. Selecionava domínio dos clássicos confucianos. Era uma máquina de alinhamento cultural. O sistema compensava a burocracia mínima delegando para estruturas locais: clãs, anciãos de aldeia, shēnshì (紳士, a elite letrada local). Não chegaram a ocupar cargos imperiais mas detinham prestígio e autoridade na comunidade. Uma governança fractal onde o centro definia a doutrina e a execução era local.
 
 ![Parthenon, Atenas. Foto: Spencer Davis / Unsplash](./parthenon.jpg)
 
@@ -64,7 +65,7 @@ O keju não selecionava competência técnica. Selecionava domínio dos clássic
 
 Um dos pontos que parecem centrais ao pensamento ocidental é a cultura do embate de ideias. A [dialética para os marxistas](https://www.marxists.org/archive/marx/works/1847/poverty-philosophy/ch02.htm) seria a evolução por meio de contradições. Sócrates já defendia essa prática, passou por Kant, Hegel até essa definição de Marx: discutir para chegar em outro ponto, questionar até exaurir possibilidades.
 
-As contradições produziram coisas extraordinárias. O método científico é filho direto dela: hipótese, teste, refutação. A revolução industrial nasceu de gente que questionou como as coisas eram feitas. A democracia ateniense, o iluminismo, os direitos individuais, tudo isso brota de uma cultura que valoriza o embate de ideias. O ocidente se movimenta abruptamente justamente por destruir o que construiu ontem.
+As contradições produziram coisas extraordinárias. O método científico é filho direto delas: hipótese, teste, refutação. A revolução industrial nasceu de gente que questionou como as coisas eram feitas. A democracia ateniense, o iluminismo, os direitos individuais, tudo isso brota de uma cultura que valoriza o embate de ideias. O ocidente se movimenta abruptamente justamente por destruir o que construiu ontem.
 
 Na forma rudimentar, questionar é apenas negar a ideia do outro. Negar sem critérios ou sem adicionar algo em contrapartida apenas leva a conversa para uma espiral descendente, um niilismo absoluto. Uma criança que nega o tempo todo e por fim quebra o próprio brinquedo para não ter que dividi-lo com ninguém.
 
@@ -82,7 +83,7 @@ Há fortes indícios de que a Amazônia e o Cerrado foram intencionalmente plant
 
 A [terra preta de índio](https://doi.org/10.1016/j.gca.2010.11.029), solo fértil criado por atividade humana sustentada, cobre até 154 mil km² da bacia amazônica. O Cerrado teve seu [mosaico de vegetação mantido por milênios](https://doi.org/10.4996/fireecology.0701024) de manejo indígena com fogo. Literalmente cultivados, no sentido mais basal de uma cultura.
 
-[Ailton Krenak](https://silva.thluiz.com/notes/krenak-vida-nao-e-util), ao ser questionado sobre o fim do mundo, se dizia confortável: o povo dele passou pelo fim do mundo cinco séculos antes, com a chegada dos europeus, e segue persistindo. A pergunta dele era como os brancos iriam se virar diante do próprio apocalipse auto imposto.
+[Ailton Krenak](https://silva.thluiz.com/notes/krenak-vida-nao-e-util), ao ser questionado sobre o fim do mundo, se dizia confortável: o povo dele passou pelo fim do mundo cinco séculos antes, com a chegada dos europeus, e segue persistindo. A pergunta dele era como os brancos iriam se virar diante do próprio apocalipse autoimposto.
 
 ---
 
