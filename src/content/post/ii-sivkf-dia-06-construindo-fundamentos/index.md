@@ -21,6 +21,6 @@ Ainda estou escrevendo um texto sobre o café da manhã, mas está demorando mui
 
 ---
 
-*Thiago Silva*
-*Moy Chi Yau Si*
+*T L Si - Thiago Silva*<br/>
+*Moy Chi Yau Si*<br/>
 *梅 知 友 士*

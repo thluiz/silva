@@ -51,6 +51,6 @@ Entretanto, o destaque do post centra-se na salada do **Little Greek**, onde Jad
 
 ---
 
-*Thiago Silva*
+*T L Si - Thiago Silva*<br/>
+*Moy Chi Yau Si*<br/>
 *梅 知 友 士*
-*Moy Chi Yau Si*
