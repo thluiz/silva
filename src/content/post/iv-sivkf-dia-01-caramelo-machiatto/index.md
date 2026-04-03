@@ -27,6 +27,6 @@ Rejeito esse cinismo. Em vez disso, sugiro que a vida se assemelha ao Caramelo M
 
 ---
 
-*Thiago Silva*
-*梅知友士*
-*Moy Chi Yau Si*
+*T L Si - Thiago Silva*<br/>
+*Moy Chi Yau Si*<br/>
+*梅 知 友 士*

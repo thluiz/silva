@@ -29,6 +29,6 @@ Este texto originalmente pretendia explorar como perguntas melhoram a vida, mas 
 
 ---
 
-*Thiago Silva*
-*Moy Chi Yau Si*
+*T L Si - Thiago Silva*<br/>
+*Moy Chi Yau Si*<br/>
 *梅 知 友 士*

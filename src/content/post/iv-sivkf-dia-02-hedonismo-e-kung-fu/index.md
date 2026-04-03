@@ -34,6 +34,6 @@ O trabalho da tarde focou em Ving Tsun com Antonio, concluído pela chegada do S
 
 ---
 
-*Thiago Silva*
+*T L Si - Thiago Silva*<br/>
+*Moy Chi Yau Si*<br/>
 *梅 知 友 士*
-*Moy Chi Yau Si*

@@ -37,6 +37,6 @@ No meio do dia Alex e Antunes foram fazer compras a pé. No calor da Flórida, u
 
 ---
 
-*Thiago Silva*
-*Moy Chi Yau Si*
+*T L Si - Thiago Silva*<br/>
+*Moy Chi Yau Si*<br/>
 *梅 知 友 士*
