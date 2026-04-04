@@ -29,17 +29,19 @@ Podemos extrapolar a lógica: um líder "controla" 150 pessoas, que controlam ou
 
 ![Vista aérea de Dubai. Foto: David Rodrigo / Unsplash](./cidade.jpg)
 
-### Qual a maior empreitada organizacional da história?
+### Qual a maior empreitada humana?
 
-O Walmart é o maior empregador privado do mundo com 2,1 milhões de funcionários. É mais gente do que a população de muitas capitais. O segundo maior é a Amazon, com 1,5 milhão. Pensei em coisas que realmente importam:
+O Walmart é o maior empregador privado do mundo com 2,1 milhões de funcionários. É mais gente do que a população de muitas capitais. O segundo maior é a Amazon, com 1,5 milhão.
+
+Vamos pensar no que sobrevive ao tempo, coisas que têm importância:
 
 Ao pesquisar monumentos, me frustrei ao descobrir que as pirâmides provavelmente não empregaram mais do que 20 a 30 mil trabalhadores (sim, trabalhadores, não há indícios de que fossem escravizados). Duas obras chinesas se destacam: a Grande Muralha da China, com 1 a 3 milhões em cada dinastia, e o Grande Canal da China, com estimativa de até 5,5 milhões.
 
 Números mais interessantes, mas ainda pouca gente trabalhando para um fim comum.
 
-Seguindo no aumento de importância: guerras. Os EUA mobilizaram 16 milhões de pessoas durante a Segunda Guerra. A Alemanha, 18 milhões. A União Soviética, quase 35 milhões. Mas exércitos são temporários. Acabou a guerra, desmobilizou. O que é mais importante do que administrar a vida das pessoas? As guerras são muitas vezes proporcionadas por estados-nações grandes demais para se conterem.
+Seguindo no aumento de importância: guerras. Os EUA mobilizaram 16 milhões de pessoas durante a Segunda Guerra. A Alemanha, 18 milhões. A União Soviética, quase 35 milhões. Mas exércitos são temporários. Acabou a guerra, desmobilizou. As guerras são muitas vezes proporcionadas por estados-nações grandes demais para se conterem.
 
-No quesito Estados, os números começam a ficar mais interessantes: o governo britânico emprega quase 6 milhões de pessoas no setor público para 67 milhões de habitantes, um funcionário para cada 11.
+No quesito Estados, os números começam a ficar mais apresentáveis: o governo britânico emprega quase 6 milhões de pessoas no setor público para 67 milhões de habitantes, um funcionário para cada 11.
 
 Os Estados Unidos da América, cerca de 24 milhões somando federal, estadual e municipal para 335 milhões de habitantes, um funcionário para cada 14.
 
@@ -53,11 +55,11 @@ Num [podcast sobre pensamento chinês](https://vox.thluiz.com/2020/12/W50/113-pe
 
 ### Os chineses e seus 27 mil
 
-A dinastia Qing administrava quase 400 milhões de pessoas com algo entre 20 e 35 mil funcionários civis de carreira, ou seja, em torno de 27 mil burocratas para um império de 400 milhões. A proporção é de um funcionário para cada 14 mil habitantes.
+A dinastia Qing administrava quase 400 milhões de pessoas com algo entre 20 e 35 mil funcionários civis de carreira, ou seja, em torno de 27 mil burocratas para um império de 400 milhões. A proporção é de um funcionário para cada 14 mil habitantes (qual foi o neoliberal que falou que o estado mínimo é mais eficiente mesmo?).
 
 O instrumento era o sistema de exames imperiais, o keju (科舉, literalmente "selecionar por exame"). Estabelecido em 605 d.C., abolido em 1905. Mil e trezentos anos de operação contínua. Na dinastia Ming, apenas 90 pessoas por ano recebiam o grau máximo de uma base de milhões de candidatos. Uma taxa de aprovação que faz qualquer vestibular parecer brincadeira.
 
-O keju não selecionava competência técnica. Selecionava domínio dos clássicos confucianos. Era uma máquina de alinhamento cultural. O sistema compensava a burocracia mínima delegando para estruturas locais: clãs, anciãos de aldeia, shēnshì (紳士, a elite letrada local). Não chegaram a ocupar cargos imperiais mas detinham prestígio e autoridade na comunidade. Uma governança fractal onde o centro definia a doutrina e a execução era local.
+O keju não selecionava competência técnica. Selecionava domínio dos clássicos confucianos. Era uma máquina de alinhamento cultural. O sistema compensava a burocracia mínima delegando para estruturas locais: clãs, anciãos de aldeia, shēnshì (紳士, a elite letrada local). Não chegavam a ocupar cargos imperiais mas detinham prestígio e autoridade na comunidade. Uma governança fractal onde o centro definia a doutrina e a execução era local.
 
 ![Parthenon, Atenas. Foto: Spencer Davis / Unsplash](./parthenon.jpg)
 
@@ -82,6 +84,8 @@ Do Alaska à Terra do Fogo, os povos originários desse grande continente modifi
 Há fortes indícios de que a Amazônia e o Cerrado foram intencionalmente plantados. [Espécies domesticadas são cinco vezes mais dominantes](https://doi.org/10.1126/science.aal0157) perto de sítios arqueológicos na Amazônia.
 
 A [terra preta de índio](https://doi.org/10.1016/j.gca.2010.11.029), solo fértil criado por atividade humana sustentada, cobre até 154 mil km² da bacia amazônica. O Cerrado teve seu [mosaico de vegetação mantido por milênios](https://doi.org/10.4996/fireecology.0701024) de manejo indígena com fogo. Literalmente cultivados, no sentido mais basal de uma cultura.
+
+154 mil km²? Acho que posso aceitar como maior empreitada humana.
 
 [Ailton Krenak](https://silva.thluiz.com/notes/krenak-vida-nao-e-util), ao ser questionado sobre o fim do mundo, se dizia confortável: o povo dele passou pelo fim do mundo cinco séculos antes, com a chegada dos europeus, e segue persistindo. A pergunta dele era como os brancos iriam se virar diante do próprio apocalipse autoimposto.
 
