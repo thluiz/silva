@@ -1,0 +1,17 @@
+---
+title: "SOLID Principles"
+publishDate: "2026-04-04T08:14:15+01:00"
+tags: ["software-engineering", "object-oriented", "design-principles"]
+---
+
+SOLID is a mnemonic for five object-oriented design principles introduced by Robert C. Martin in his 2003 book Agile Software Development, Principles, Patterns, and Practices. The acronym itself was coined by Michael Feathers around 2004.
+
+- **S — Single Responsibility Principle**: a class should have only one reason to change.
+- **O — Open/Closed Principle**: classes should be open for extension, but closed for modification.
+- **L — Liskov Substitution Principle**: objects of a derived class must be usable in place of the base class without breaking the program.
+- **I — Interface Segregation Principle**: clients should not be forced to depend on interfaces they do not use.
+- **D — Dependency Inversion Principle**: depend upon abstractions, not concretes.
+
+The principles aim to make software more understandable, flexible, and maintainable. They are guidelines, not laws — applying them dogmatically can lead to over-engineering, but ignoring them tends to produce rigid, fragile code.
+
+Fonte: [SOLID — Wikipedia](https://en.wikipedia.org/wiki/SOLID)
