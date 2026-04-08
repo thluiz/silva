@@ -1,7 +1,7 @@
 ---
 title: "Pinyin é sistema, não tabela"
 publishDate: "2026-04-08T16:50:00+01:00"
-tags: ["china", "linguagem", "sistemas", "pinyin"]
+tags: ["china", "linguagem", "sistemas", "pinyin", "chines-instrumental"]
 ---
 
 Pinyin é a romanização oficial do Mandarim: pega o som do ideograma e devolve em alfabeto latino com marca tonal (中 vira *zhōng*). Por baixo, parece tabela de conversão. Por cima, é sistema, porque tem regras de silabação, marcação de tom, separação de palavras, e só funciona porque existe uma única língua oficial para romanizar.
