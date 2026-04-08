@@ -1,5 +1,5 @@
 ---
-title: "Vocabulário 標指 para o V Encontro"
+title: "Termos 標指 para o V Encontro"
 publishDate: "2026-04-08T23:20:59+01:00"
 tags: ["china", "linguagem", "chines-instrumental", "biu-ji"]
 ---
