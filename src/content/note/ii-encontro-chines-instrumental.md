@@ -34,6 +34,8 @@ O uso de *Dai Si* é formal, para fora da família Kung Fu, em apresentações, 
 
 *Chung* (尊) é venerável, *Si* (師) mestre. Termo fácil de interpretar mal. Não é grão-mestre, não é fundador. É um reconhecimento subjetivo, dado entre pares e por inferiores. Pode ser ofensivo usar com a pessoa ainda viva.
 
+_Pesquisa posterior à aula: para um mestre falecido em quem a linhagem se reconhece como inteira, o termo apropriado parece ser 宗師 (zōngshī / zung1 si1), "mestre da tradição", às vezes traduzido como patriarca. 宗 é o caractere específico de "tradição transmitida desde um ancestral comum", e por isso o termo carrega bem o peso póstumo que torna o Chung Si (尊師) ofensivo de aplicar a alguém ainda vivo. Falta confirmar com Si Fu se a casa usa 宗師 nesse sentido._
+
 ### Si Jo, Jo Si: a ordem que diferencia trilhas
 
 A posição do caractere é convenção, e ela diferencia trilhas. *Si* (師) na frente (*Si Hing* 師兄, *Si Fu* 師父, *Si Mo* 師母, *Si Gung* 師公, *Si Taai* 師太[^si-taai]) marca a trilha da ancestralidade dentro da família: irmão mais velho, pai, mãe, avô, avó. *Jo* (祖, antecessor) na frente, como em *Jo Si* (祖師), marca o fundador. É o jeito de não confundir o ancestral linear com quem fundou a coisa toda.
