@@ -1,7 +1,7 @@
 ---
 title: "Analfabeto funcional da própria tradição"
 publishDate: "2026-04-08T16:48:30+01:00"
-tags: ["china", "escrita", "ensino", "kung-fu"]
+tags: ["china", "escrita", "ensino", "kung-fu", "chines-instrumental"]
 ---
 
 A razão de aprender a escrever bem os ideogramas não é vaidade nem autoridade de internet. É evitar virar analfabeto funcional dentro da tradição que se ensina. Quando o praticante erra a escrita das técnicas que pratica, abre flanco para que terceiros questionem seu saber por motivo bobo, e essa exposição é desnecessária.
