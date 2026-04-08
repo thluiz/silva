@@ -6,4 +6,4 @@ tags: ["china", "linguagem", "kung-fu", "chines-instrumental"]
 
 O ideograma 師 (*Si*) significa primariamente *mestre*, no sentido de modelo a ser seguido, referência. A confusão de tomá-lo como "ensinar" no sentido principal é erro comum. A polissemia chinesa permite que a mesma palavra ocupe funções sintáticas diferentes, então o *Si* às vezes aparece como verbo, e aí depende de quem olha: vira "ensinar" pelo ponto de vista do modelo, ou "aprender" pelo ponto de vista de quem observa o modelo. Mas a leitura primária é o substantivo, e ela é a âncora.
 
-Fonte: [Notas sobre o segundo encontro de cantonês instrumental](./notas-sobre-o-segundo-encontro-de-cantones-instrumental.md).
+Fonte: [II Encontro de Chinês Instrumental](./ii-encontro-chines-instrumental.md).
