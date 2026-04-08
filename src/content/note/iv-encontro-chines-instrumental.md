@@ -4,7 +4,7 @@ publishDate: "2026-04-08T22:00:00+01:00"
 tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "etimologia", "np-chines-instrumental"]
 ---
 
-Anotações do quarto encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O eixo do dia foi a etimologia de *Cham Kiu*, com escavação caractere por caractere, contraste entre Mandarim e Cantonês, passagem pelas leituras concorrentes do termo no jargão Ving Tsun, e fechamento na leitura específica da nossa linhagem.
+Anotações do quarto encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O eixo do dia foi a etimologia de *Cham Kiu* (尋橋), com escavação caractere por caractere, contraste entre Mandarim e Cantonês, passagem pelas leituras concorrentes do termo no jargão Ving Tsun, e fechamento na leitura específica da nossa linhagem.
 
 ### Cópia à mão e a técnica do cinza claro
 
@@ -30,7 +30,7 @@ Houve uma revisão rápida dos tons, com a regra mnemônica de que o primeiro é
 
 Voltando ao Cantonês, quarto tom e seco, Si Fu perguntou pelo significado literal de *Cham*. Claudio confirmou: "procurar". Si Fu fez questão de afinar: *Cham* é procurar no sentido de tatear, procurar com a mão, ato físico. Não é investigar nem pesquisar, é manipulação concreta.
 
-A etimologia do ideograma confirma. A decupagem mostra a parte superior associada à mão e, na parte inferior, a própria mão de novo, com um componente central que foi lido como "trabalho". Si Fu sugeriu ainda que o elemento "boca", quando aparece num ideograma, talvez não esteja relacionado a comer, mas a marcar local, delimitar território, e citou o ideograma de China como exemplo dessa leitura. Toda a escavação aponta para o mesmo vetor: a busca, em *Cham*, é busca física.
+A etimologia do ideograma confirma. A decupagem mostra quatro componentes. Em cima, 彐, radical que figura dedos. Embaixo, 寸, outro radical de mão (literalmente "polegada", mas representando o pulso com o polegar). No meio, 工, que se lê como "trabalho". E 口, "boca", que Si Fu sugeriu não estar aqui ligado a comer, mas a marcar local, delimitar território, e mandou 国 (país) como exemplo dessa leitura. Toda a escavação aponta para o mesmo vetor: a busca, em *Cham*, é busca física, com as duas mãos.
 
 ### Kiu, a ponte de madeira que se curva
 
@@ -40,7 +40,7 @@ O ideograma *Kiu*, ponte, tem o componente mais importante à esquerda, que sign
 
 No jargão marcial, a palavra "ponte" virou apelido para "braço". Pelo encadeamento, *Cham Kiu* passa a significar "procurar o braço", e essa é a tradução mais comum, repetida pela maioria das famílias de Ving Tsun (em algumas variantes vira "procurar abraço"). Si Fu não compra essa leitura: no sistema, segundo ele, o foco não deveria ser o braço do oponente, mas a linha central.
 
-Apareceu então um ideograma homofônico, *Chau*, que significa afundar, submergir. Numa linhagem específica, esse seria o caractere correto: não "procurar a ponte", mas "afundar a ponte". E aqui a ponte também não é o braço, é a estrutura, o quadril que conecta braços e pernas. Afundar a ponte, nessa leitura, é quebrar a estrutura do oponente, como acontece num *Lap Sau*.
+Apareceu então um ideograma homofônico, *Chau* (沉), que significa afundar, submergir. Numa linhagem específica, esse seria o caractere correto: não "procurar a ponte", mas "afundar a ponte". E aqui a ponte também não é o braço, é a estrutura, o quadril que conecta braços e pernas. Afundar a ponte, nessa leitura, é quebrar a estrutura do oponente, como acontece num *Lap Sau*.
 
 ### Cantonês sem sistema, e o caso do Siu Lian Tao
 
