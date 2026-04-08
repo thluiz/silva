@@ -12,8 +12,6 @@ Apareceu na aula a tentativa de Chi Yau Si Moy de montar um método próprio de 
 
 Essa técnica casou com a lembrança de um livro que Si Fu encontrou na Fenac, que ensinava chinês por meio de histórias, com os ideogramas inseridos entre parênteses no meio da frase em romanização, no contexto. O relato é que depois de umas dez páginas o leitor já reconhecia em torno de vinte caracteres. O livro tinha justamente os exercícios de escrita por cima do cinza claro.
 
-Sobre a prática que Chi Yau Si Moy vinha fazendo, Si Fu revisou e considerou alguns ideogramas "muito bons", em especial o terceiro do meio. A explicação foi que estava tentando variar e soltar a mão em cima dos caracteres. Si Fu concordou que a escrita estava ficando boa.
-
 ### Cham Kiu: a primeira camada de pesquisa
 
 Encerrada a parte da escrita, a aula entrou no termo *Cham Kiu*. Claudio resumiu o que tinha levantado em pesquisa preliminar: numa leitura simplificada, "procurar a ponte", mas uma busca mais aprofundada apontou referência a uma medida antiga de oito pés, correspondente à envergadura de uma pessoa de mãos abertas. Claudio concluiu que o conceito também envolvia "se ajustar, se adequar, tatear" e construir uma conexão.
