@@ -24,19 +24,19 @@ A outra grafia é 師父. Mesmo som, outro *Fu*: o de pai. Pictograficamente, um
 
 Provérbio chinês citado por Si Fu: o aprendiz deve *aprender a amar* o Si Fu e *respeitar* o pai. A inversão é o ponto. O respeito ao pai vem dado, o afeto pelo Si Fu se constrói.
 
-### Da Si (大師) e o Si Hing como redução
+### Dai Si (大師) e o Si Hing como redução
 
-*Da* é grande. 大師 (*Da Si*) é grande mestre, honorável mestre. O ponto contraintuitivo é que *Da Si* é o termo *original*, e o *Si Hing* ("irmão mais velho-mestre") é uma redução dele: "grande mestre que é meu irmão mais velho". A direção etimológica vai do todo para a parte, não da parte para o todo.
+*Dai* (大) é grande. 大師 (*Dai Si*) é grande mestre, honorável mestre. O ponto contraintuitivo é que *Dai Si* é o termo *original*, e o *Si Hing* (師兄, "irmão mais velho-mestre") é uma redução dele: "grande mestre que é meu irmão mais velho". A direção etimológica vai do todo para a parte, não da parte para o todo.
 
-O uso de *Da Si* é formal, para fora da família Kung Fu, em apresentações, e quando um grupo quer reconhecer alguém como superior. Não serve para criar subgrupos formais dentro da casa.
+O uso de *Dai Si* é formal, para fora da família Kung Fu, em apresentações, e quando um grupo quer reconhecer alguém como superior. Não serve para criar subgrupos formais dentro da casa.
 
-### Tun Si: cuidado com a leitura
+### Tun Si (尊師): cuidado com a leitura
 
-*Tun* seria linhagem, *Si* mestre. Termo fácil de interpretar mal. Não é grão-mestre, não é fundador. É um reconhecimento subjetivo, dado entre pares e por inferiores. Pode ser ofensivo usar com a pessoa ainda viva.
+*Tun* (尊) é venerável, *Si* (師) mestre. Termo fácil de interpretar mal. Não é grão-mestre, não é fundador. É um reconhecimento subjetivo, dado entre pares e por inferiores. Pode ser ofensivo usar com a pessoa ainda viva.
 
 ### Si Jo, Jo Si: a ordem que diferencia trilhas
 
-A posição do caractere é convenção, e ela diferencia trilhas. *Si* na frente (*Si Hing*, *Si Fu*, *Si Tai*) marca a trilha da ancestralidade dentro da família: irmão mais velho, pai, avó. *Jo* (antecessor) na frente, como em *Jo Si*, marca o fundador. É o jeito de não confundir o ancestral linear com quem fundou a coisa toda.
+A posição do caractere é convenção, e ela diferencia trilhas. *Si* (師) na frente (*Si Hing* 師兄, *Si Fu* 師父, *Si Gung* 師公, *Si Tai* 師太) marca a trilha da ancestralidade dentro da família: irmão mais velho, pai, avô, avó. *Jo* (祖, antecessor) na frente, como em *Jo Si* (祖師), marca o fundador. É o jeito de não confundir o ancestral linear com quem fundou a coisa toda.
 
 ### Sinsan (先生): nascido antes
 
