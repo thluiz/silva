@@ -36,7 +36,7 @@ O uso de *Dai Si* é formal, para fora da família Kung Fu, em apresentações, 
 
 ### Si Jo, Jo Si: a ordem que diferencia trilhas
 
-A posição do caractere é convenção, e ela diferencia trilhas. *Si* (師) na frente (*Si Hing* 師兄, *Si Fu* 師父, *Si Mo* 師母, *Si Gung* 師公, *Si Tai* 師太) marca a trilha da ancestralidade dentro da família: irmão mais velho, pai, mãe, avô, avó. *Jo* (祖, antecessor) na frente, como em *Jo Si* (祖師), marca o fundador. É o jeito de não confundir o ancestral linear com quem fundou a coisa toda.
+A posição do caractere é convenção, e ela diferencia trilhas. *Si* (師) na frente (*Si Hing* 師兄, *Si Fu* 師父, *Si Mo* 師母, *Si Gung* 師公, *Si Tai* 師太[^si-tai]) marca a trilha da ancestralidade dentro da família: irmão mais velho, pai, mãe, avô, avó. *Jo* (祖, antecessor) na frente, como em *Jo Si* (祖師), marca o fundador. É o jeito de não confundir o ancestral linear com quem fundou a coisa toda.
 
 ### Sinsan (先生): nascido antes
 
@@ -54,3 +54,4 @@ A posição do caractere é convenção, e ela diferencia trilhas. *Si* (師) na
 
 Na nossa família, se for estabelecido que senioridade são 12 anos de mestria, ela é alcançada por simples passagem de tempo, em data marcada pelo calendário, não por idade biológica nem por nova prova. O exemplo recorrente, do lado oposto, é a faixa vermelha da família Gracie, que só vem após os 65, e é critério etário puro. Aqui o critério é outro: o relógio rodou. Para mim, então, 2036.
 
+[^si-tai]: A grafia 師太 ficou em aberto. No padrão cantonês comum, 太 (*taai*) é marcador de geração ascendente, como em 太公 (*taai gung*, bisavô) e 太婆 (*taai po*, bisavó); a avó "natural" seria 師婆 (*Si Po*). Existe também a posição *Si Taai Po* 師太婆 como esposa do *Si Taai Gung* 師太公 (bisavô na família Kung Fu), o que reforça 太 como marcador de bisavós e não de avós. A nota mantém 師太 = avó por agora, esperando confirmação de Si Fu sobre o uso da casa.
