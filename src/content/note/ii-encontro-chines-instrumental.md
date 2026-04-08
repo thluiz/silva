@@ -1,64 +1,61 @@
 ---
-title: "Notas sobre o segundo encontro de cantonês instrumental"
+title: "II Encontro de Chinês Instrumental"
 publishDate: "2026-03-29T12:33:00+01:00"
-tags:
-  - kung-fu
-  - ving-tsun
-  - lingua-chinesa
-  - cantones
-  - mestria
+tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "linhagem", "np-chines-instrumental"]
 ---
 
-### Si (師)
+Anotações do segundo encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O eixo do dia foi o vocabulário cantonês de mestria e linhagem: o substantivo *Si* e a teia de termos derivados que organizam quem é quem dentro da família Kung Fu, do tratamento mais cotidiano até as formas que só servem em contexto cerimonial. Cada termo abriu uma camada de etimologia e uma instrução de uso prático.
 
-**Si** significa primariamente *mestre*, substantivo, não verbo. O ideograma aponta para *modelo a ser seguido*, *referência*. Por causa da polissemia chinesa, a mesma palavra pode ocupar funções sintáticas diferentes, então o **Si** às vezes aparece conjugado como verbo, e aí, dependendo de quem olha, vira "ensinar" (do ponto de vista do modelo) ou "aprender" (do ponto de vista de quem observa o modelo). Mas a leitura primária é o substantivo.
+### Si (師): mestre é substantivo
+
+師 (*Si*) significa primariamente *mestre*, no sentido de modelo a ser seguido, referência. Tomá-lo como "ensinar" no sentido principal é erro comum. A polissemia chinesa permite que a mesma palavra ocupe funções sintáticas diferentes, então o *Si* às vezes aparece conjugado como verbo, e aí depende de quem olha: vira "ensinar" pelo ponto de vista do modelo, ou "aprender" pelo ponto de vista de quem observa o modelo. Mas a leitura primária é o substantivo, e ela é a âncora.
 
 Historicamente, o substantivo evoluiu para *instrutor*, que não é o mesmo que *professor*. O instrutor dá uma instrução direta. Na China, a referência veio da condução de tropas: o instrutor era comandante militar.
 
-### Lou Si (老師)
+### Lou Si (老師): o instrutor envelhecido
 
-Quando o instrutor de tropa envelhece e ganha experiência, vira **Lou Si** ("Lou" é velho). É o professor de escola, *Laoshi* em mandarim, um Si envelhecido. Na ordem de respeito da cultura chinesa, fica em segundo lugar, atrás apenas do Sifu.
+Quando o instrutor de tropa envelhece e ganha experiência, vira 老師 (*Lou Si*), em cantonês, ou *Laoshi* em mandarim. *Lou* é velho. É o professor de escola, um *Si* envelhecido. Na ordem de respeito da cultura chinesa, fica em segundo lugar, atrás apenas do Si Fu.
 
-### Sifu, com dois Fu possíveis
+### Os dois Si Fu (師傅 e 師父)
 
-A grafia que o chinês de Hong Kong escuta naturalmente é **師傅** (primeiro tom, sexto tom), o "mestre-mestre". O **Fu** aqui é o de mestria, o que executa e transmite, como um maestro. Não carrega conotação familiar. Usa-se com nome próprio, como em "Mestre Julio Camacho". É o Sifu de quando se fala *sobre* alguém para terceiros.
+A grafia que o chinês de Hong Kong escuta naturalmente é 師傅 (primeiro tom, sexto tom), o "mestre-mestre". O *Fu* aqui é o de mestria, o que executa e transmite, como um maestro. Não carrega conotação familiar. Usa-se com nome próprio, como em "Mestre Julio Camacho". É o Si Fu de quando se fala *sobre* alguém para terceiros.
 
-A outra grafia é **師父**. Mesmo som, outro **Fu**: o de *pai*. Pictograficamente, um homem de peito aberto com duas armas, protegendo a família. Esse é o líder de família Kung Fu. Não se conjuga com nome próprio, porque a pessoa só tem um. Misturar os termos, ou pior, dizer "meu Sifu Fulano" usando esse Fu, é gafe.
+A outra grafia é 師父. Mesmo som, outro *Fu*: o de pai. Pictograficamente, um homem de peito aberto com duas armas, protegendo a família. Esse é o líder de família Kung Fu. Não se conjuga com nome próprio, porque a pessoa só tem um. Misturar os termos, ou pior, dizer "meu Si Fu Fulano" usando esse *Fu*, é gafe. Os dois *Fu* são homófonos, ambos sexto tom.
 
-Os dois Fu são homófonos, ambos sexto tom.
+Provérbio chinês citado por Si Fu: o aprendiz deve *aprender a amar* o Si Fu e *respeitar* o pai. A inversão é o ponto. O respeito ao pai vem dado, o afeto pelo Si Fu se constrói.
 
-Provérbio chinês: o aprendiz deve *aprender a amar* o Sifu e *respeitar* o pai. A inversão é o ponto. O respeito ao pai vem dado, o afeto pelo Sifu se constrói.
+Tarefa de casa marcada na aula: seis caligrafias de cada Si Fu, no papel grande. Ter boa caligrafia em chinês importa mais do que ter boa caligrafia em português, e isso é parte do processo cultural, não enfeite.
 
-Tarefa de casa: seis caligrafias de cada Sifu, no papel grande. Ter boa caligrafia em chinês importa mais do que ter boa caligrafia em português, e isso é parte do processo cultural, não enfeite.
+### Da Si (大師) e o Si Hing como redução
 
-### Da Si (大師)
+*Da* é grande. 大師 (*Da Si*) é grande mestre, honorável mestre. O ponto contraintuitivo é que *Da Si* é o termo *original*, e o *Si Hing* ("irmão mais velho-mestre") é uma redução dele: "grande mestre que é meu irmão mais velho". A direção etimológica vai do todo para a parte, não da parte para o todo.
 
-**Da** é grande. **Da Si** é grande mestre, honorável mestre. **Da Si** é o termo *original*, e o **Si Hing** ("irmão mais velho-mestre") é uma redução dele, "grande mestre que é meu irmão mais velho". A direção é essa, não a inversa.
+O uso de *Da Si* é formal, para fora da família Kung Fu, em apresentações, e quando um grupo quer reconhecer alguém como superior. Não serve para criar subgrupos formais dentro da casa.
 
-Uso é formal, para fora da família Kung Fu, em apresentações e quando um grupo quer reconhecer alguém como superior. Não serve para criar subgrupos formais dentro da família.
+### Tun Si: cuidado com a leitura
 
-### Tun Si
+*Tun* seria linhagem, *Si* mestre. Termo fácil de interpretar mal. Não é grão-mestre, não é fundador. É um reconhecimento subjetivo, dado entre pares e por inferiores. Pode ser ofensivo usar com a pessoa ainda viva.
 
-**Tun** seria linhagem, **Si** mestre. Termo fácil de interpretar mal. Não é grão-mestre, não é fundador. É um reconhecimento subjetivo, dado entre pares e por inferiores. Pode ser ofensivo usar com a pessoa ainda viva.
+### Si Jo, Jo Si: a ordem que diferencia trilhas
 
-### Si Jo e Jo Si
+A posição do caractere é convenção, e ela diferencia trilhas. *Si* na frente (*Si Hing*, *Si Fu*, *Si Tai*) marca a trilha da ancestralidade dentro da família: irmão mais velho, pai, avó. *Jo* (antecessor) na frente, como em *Jo Si*, marca o fundador. É o jeito de não confundir o ancestral linear com quem fundou a coisa toda.
 
-A ordem é convenção, e ela diferencia trilhas.
+### Sinsan (先生): nascido antes
 
-**Si** na frente (Si Hing, Si Fu, Si Tai) marca a trilha da ancestralidade dentro da família: irmão mais velho, pai, avó. **Jo** (antecessor) na frente, como em **Jo Si**, marca o fundador. É o jeito de não confundir o ancestral linear com quem fundou a coisa toda.
+先生 (*Sinsan*) é cantonês para *nascido antes*. O *Sensei* japonês é cognato do mesmo composto. A rigor, qualquer pessoa nascida antes é Sinsan, mas o termo funciona como pronome de tratamento respeitoso, análogo ao "o senhor" português ou ao "venerável" em outros contextos. Não é título, é forma de tratamento. É útil em situações como um grupo de testemunhas onde se quer *evitar* sublinhar a diferença entre mestres e não-mestres, e por isso aparece como saída diplomática quando o cargo seria pesado demais.
 
-### Sinsan (先生)
+### Dou (道): o orientador espiritual
 
-Cantonês para *nascido antes*. O **Sensei** japonês é cognato. A rigor, qualquer pessoa nascida antes é Sinsan. Como pronome de tratamento, vira respeito, análogo ao "o senhor" português, ou ao "venerável" em outros contextos. Útil em situações como um grupo de testemunhas onde se quer *evitar* sublinhar a diferença entre mestres e não-mestres. Não é título, é forma de tratamento.
+道 (*Dou*) é termo para mestre ou guru com cunho mais espiritual, voltado à orientação geral da vida. Aparece também no uso acadêmico chinês: orientador de mestrado ou doutorado é um *Dou*. Não é termo do dia a dia, mas vale reconhecer.
 
-### Dou (道)
+### Moon Pai (門派): galho ligado é linhagem, galho descolado é seita
 
-Termo para mestre ou guru com cunho mais espiritual, voltado à orientação geral da vida. Aparece também no uso acadêmico chinês: orientador de mestrado ou doutorado é um Dou. Não é termo do dia a dia, mas vale reconhecer.
+門派 (*Moon Pai*) significa literalmente "ramificação de alguma coisa", os galhos de uma árvore. *Moon* sozinho é abreviatura de *Moon Pai* e aparece muito traduzido como "seita". O conceito encaixa porque uma seita é, etimologicamente, um galho que se desligou do processo, da árvore principal. A diferença entre *Pai* como seita e *Pai* como continuidade está na conexão: o galho que continua ligado é linhagem, o galho que se descolou é seita. O critério não é o tamanho do ramo, é se ele ainda passa seiva pelo tronco.
 
-### Moon Pai (門派)
+### Senioridade é tempo de mestria
 
-**Moon** sozinho aparece muito traduzido como "seita". **Moon** é abreviatura de **Moon Pai**, que significa *ramificação de alguma coisa*, os galhos de uma árvore. O conceito de "seita" se encaixa porque uma seita é, etimologicamente, um galho que se *desligou* do processo, da árvore principal. A diferença entre **Pai** como seita e **Pai** como continuidade está na conexão: o galho que continua ligado é linhagem, o galho que se descolou é seita.
+Na nossa família, se for estabelecido que senioridade são 12 anos de mestria, ela é alcançada por simples passagem de tempo, em data marcada pelo calendário, não por idade biológica nem por nova prova. O exemplo recorrente, do lado oposto, é a faixa vermelha da família Gracie, que só vem após os 65, e é critério etário puro. Aqui o critério é outro: o relógio rodou. Para mim, então, 2036.
 
-### Senioridade
+### Fio condutor
 
-Na nossa família, se for estabelecido que senioridade são 12 anos de mestria, ela é alcançada por passagem de tempo, não por idade biológica. O exemplo foi a faixa vermelha da família Gracie, que só vem após os 65. Para mim, então, 2036.
+Toda a malha de termos discutida no dia faz a mesma coisa por baixo: nomeia uma posição relativa dentro de uma estrutura viva. *Si* é referência. *Lou Si* é referência envelhecida. *Si Fu* (nas duas grafias) é referência que se aproxima, ou da mestria, ou do papel paterno. *Da Si* é referência elevada para fora da casa. *Sinsan* é referência sem hierarquia. *Moon Pai* é o desenho do tronco. Em cada termo há um cuidado de instalação do falante: quem você é em relação ao outro, e o que essa posição autoriza dizer.

@@ -8,4 +8,4 @@ tags: ["china", "linguagem", "kung-fu", "linhagem", "chines-instrumental"]
 
 O uso de *Da Si* é formal, para fora da família Kung Fu, em apresentações, e quando um grupo quer reconhecer alguém como superior. Não serve para criar subgrupos formais dentro da casa.
 
-Fonte: [Notas sobre o segundo encontro de cantonês instrumental](./notas-sobre-o-segundo-encontro-de-cantones-instrumental.md).
+Fonte: [II Encontro de Chinês Instrumental](./ii-encontro-chines-instrumental.md).

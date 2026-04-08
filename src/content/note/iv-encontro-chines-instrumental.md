@@ -1,7 +1,7 @@
 ---
 title: "IV Encontro de Chinês Instrumental"
 publishDate: "2026-04-08T22:00:00+01:00"
-tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "etimologia"]
+tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "etimologia", "np-chines-instrumental"]
 ---
 
 Anotações do quarto encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O encontro começou pequeno, com revisão do exercício diário de escrita de ideograma, e desaguou no ponto que foi o miolo do dia: a etimologia de *Cham Kiu*, com escavação caractere por caractere, contraste entre Mandarim e Cantonês, passagem pelas leituras concorrentes do termo no jargão Ving Tsun, e fechamento na leitura específica da nossa linhagem.

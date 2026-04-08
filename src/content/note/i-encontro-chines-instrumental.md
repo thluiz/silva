@@ -1,7 +1,7 @@
 ---
 title: "I Encontro de Chinês Instrumental"
 publishDate: "2026-03-21T22:21:00+01:00"
-tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental"]
+tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "np-chines-instrumental"]
 ---
 
 Anotações do primeiro encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O recorte combinado foi Chinês instrumental, mas esse primeiro encontro percorreu o mapa todo: como se escreve o ideograma, por que isso importa para quem ensina, o que separa Mandarim de Cantonês, o que o Pinyin é de fato, e como tudo isso se amarra ao projeto de unificação do Império do Centro. As próximas aulas pousam em ideogramas específicos; este encontro foi para deixar o terreno claro.
@@ -44,7 +44,7 @@ Surgiu na aula a pergunta se Pinyin é um *sistema* ou só um *mapeamento*, uma 
 
 O Cantonês não passou pela simplificação, embora falantes de Cantonês quase sempre consigam ler texto simplificado, porque aprenderam isso na escola sob o currículo oficial. Tem particularidades que o Mandarim não tem: existem palavras do dia a dia que não têm par escrito em ideograma, e nesses casos se usa um substituto improvisado. O exemplo que apareceu foi a palavra "lápis".
 
-E como o Cantonês não tem um sistema oficial de transliteração equivalente ao Pinyin, sobram vários métodos concorrentes de escrita romanizada. O efeito atravessa até a identidade familiar: é por isso que o sobrenome 梅 aparece grafado como Mo, Moy, Mui, dependendo da família e da época em que essa família registrou a romanização. A família Mo-Sã é um caso concreto disso.
+E como o Cantonês não tem um sistema oficial de transliteração equivalente ao Pinyin, sobram vários métodos concorrentes de escrita romanizada. O efeito atravessa até a identidade familiar: é por isso que o sobrenome 梅 aparece grafado como Mo, Moy, Mui, dependendo da família e da época em que essa família registrou a romanização. A família Moy Yat Sang é um caso concreto disso.
 
 ### Tons
 
