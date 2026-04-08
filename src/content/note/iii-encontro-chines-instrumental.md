@@ -1,7 +1,7 @@
 ---
 title: "III Encontro de Chinês Instrumental"
 publishDate: "2026-04-04T17:00:00+01:00"
-tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "siu-nim-tau"]
+tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental", "siu-nim-tau"]
 ---
 
 Anotações do terceiro encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O eixo do dia foi *siu nim tau* (小念頭) tomado como domínio: como se pronuncia em Mandarim e em Cantonês, como cada um dos três ideogramas se decompõe em sentido, e como a expressão inteira opera quando se entende o que ela aconselha. Houve também uma rodada inicial sobre a correção da caligrafia, mais curta do que nos encontros anteriores, e ela fica registrada por completude.

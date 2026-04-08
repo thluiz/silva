@@ -1,7 +1,7 @@
 ---
 title: "I Encontro de Chinês Instrumental"
 publishDate: "2026-03-21T22:21:00+01:00"
-tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas"]
+tags: ["china", "linguagem", "kung-fu", "sistemas", "aulas", "chines-instrumental"]
 ---
 
 Anotações do primeiro encontro de Chinês Instrumental, conduzido por Si Fu, com Claudio Teixeira. O recorte combinado foi Chinês instrumental, mas esse primeiro encontro percorreu o mapa todo: como se escreve o ideograma, por que isso importa para quem ensina, o que separa Mandarim de Cantonês, o que o Pinyin é de fato, e como tudo isso se amarra ao projeto de unificação do Império do Centro. As próximas aulas pousam em ideogramas específicos; este encontro foi para deixar o terreno claro.
