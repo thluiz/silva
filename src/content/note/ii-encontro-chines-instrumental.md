@@ -56,4 +56,4 @@ A posição do caractere é convenção, e ela diferencia trilhas. *Si* (師) na
 
 Na nossa família, se for estabelecido que senioridade são 12 anos de mestria, ela é alcançada por simples passagem de tempo, em data marcada pelo calendário, não por idade biológica nem por nova prova. O exemplo recorrente, do lado oposto, é a faixa vermelha da família Gracie, que só vem após os 65, e é critério etário puro. Aqui o critério é outro: o relógio rodou. Para mim, então, 2036.
 
-[^si-taai]: Si Fu confirmou que o 太 de *Si Taai* é o mesmo 太 de *Si Taai Gung* 師太公 e *Si Taai Po* 師太婆, posição da geração de bisavós na família Kung Fu. Como conciliar isso com o uso de *Si Taai* para "avó" na enumeração acima fica para uma conversa mais a fundo num próximo encontro.
+[^si-taai]: Aparentemente o 太 de *Si Taai* é o mesmo 太 de *Si Taai Gung* 師太公 e *Si Taai Po* 師太婆, posição da geração de bisavós na família Kung Fu. Como conciliar isso com o uso de *Si Taai* para "avó" na enumeração acima fica para uma conversa mais a fundo num próximo encontro.
