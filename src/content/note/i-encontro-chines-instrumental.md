@@ -50,16 +50,3 @@ E como o Cantonês não tem um sistema oficial de transliteração equivalente a
 
 Outro ponto que não tem equivalente em português: o tom muda o significado da palavra. Não é sotaque nem ênfase, é parte da identidade lexical do termo. Mandarim tem cinco tons, contando o tom neutro. Cantonês tem nove, embora as contagens variem entre seis e oito conforme a corrente de pesquisa. Mais tons significa mais discriminação semântica por sílaba, e também mais espaço para erro quando se está aprendendo.
 
-### Próximos passos e ferramentas
-
-Algumas decisões práticas saíram da aula:
-
-- Treinar a escrita no grid, dez minutos diários, começando pelo *siu nim tau*.
-- Claudio vai repensar o documento de estrutura de aula que estava preparando, à luz do que foi discutido.
-- Si Fu sugeriu usar o Notebook LM (Google) para transcrever a gravação da aula e gerar resumos, *flashcards* e roteiros de estudo a partir do conteúdo.
-- Pedido para enviar com antecedência os ideogramas que se quer discutir nas próximas aulas, para que Si Fu possa pesquisar.
-- Si Fu ficou de mandar para o grupo a foto de um livro sobre etimologia e ideogramas arcaicos para aquisição.
-
-### Fio condutor
-
-Três escalas, uma exigência repetida: existe um eixo, e o que se faz só funciona quando se relaciona corretamente com esse eixo. O ideograma mal escrito é incomunicável. O dialeto que insiste em existir fora do sistema oficial é político. O Pinyin é o cabo que conecta som a ideia, e ideia a Estado.
