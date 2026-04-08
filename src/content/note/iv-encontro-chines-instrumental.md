@@ -62,6 +62,3 @@ Uma "ponte curta", de um *Cham* só, sugere risco, ou bloqueio: a pessoa não co
 
 A imagem original de ponte, nessa leitura, não é a ponte arqueada de madeira do ideograma *Kiu*, é a ponte de corda, aquela que balança quando se pisa nela e exige equilíbrio físico e emocional para que a travessia aconteça. A ponte é curta porque o desafio não está no comprimento, está no que ela pede de quem a atravessa.
 
-### Fio condutor
-
-Quatro leituras de *Cham Kiu* convivendo no mesmo encontro: procurar a ponte (dicionário), procurar o braço (jargão da maioria das famílias), afundar a ponte/quadril (linhagem específica), atravessar uma ponte curta (Moy Yat). Cada uma escreve um *Cham* diferente, ou o mesmo *Cham* numa profundidade diferente. A nota fica como inventário das quatro, com peso maior na que pertence à casa.
