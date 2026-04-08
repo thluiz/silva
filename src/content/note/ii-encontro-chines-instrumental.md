@@ -46,9 +46,9 @@ A posição do caractere é convenção, e ela diferencia trilhas. *Si* (師) na
 
 道 (*Dou*) é termo para mestre ou guru com cunho mais espiritual, voltado à orientação geral da vida. Aparece também no uso acadêmico chinês: orientador de mestrado ou doutorado é um *Dou*. Não é termo do dia a dia, mas vale reconhecer.
 
-### Moon Pai (門派): galho ligado é linhagem, galho descolado é seita
+### Moon Paai (門派): galho ligado é linhagem, galho descolado é seita
 
-門派 (*Moon Pai*) significa literalmente "ramificação de alguma coisa", os galhos de uma árvore. *Moon* sozinho é abreviatura de *Moon Pai* e aparece muito traduzido como "seita". O conceito encaixa porque uma seita é, etimologicamente, um galho que se desligou do processo, da árvore principal. A diferença entre *Pai* como seita e *Pai* como continuidade está na conexão: o galho que continua ligado é linhagem, o galho que se descolou é seita. O critério não é o tamanho do ramo, é se ele ainda passa seiva pelo tronco.
+門派 (*Moon Paai*; mandarim *ménpài*, cantonês *mun4 paai3*) significa literalmente "ramificação de alguma coisa", os galhos de uma árvore. *Moon* (門, *mén* / *mun4*) sozinho é abreviatura de *Moon Paai* e aparece muito traduzido como "seita". O conceito encaixa porque uma seita é, etimologicamente, um galho que se desligou do processo, da árvore principal. A diferença entre *Paai* (派, *pài* / *paai3*) como seita e *Paai* como continuidade está na conexão: o galho que continua ligado é linhagem, o galho que se descolou é seita. O critério não é o tamanho do ramo, é se ele ainda passa seiva pelo tronco.
 
 ### Senioridade é tempo de mestria
 
