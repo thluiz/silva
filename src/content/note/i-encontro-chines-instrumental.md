@@ -14,7 +14,7 @@ Si Fu lembrou que a escrita é um aspecto central do chinês, muito mais central
 
 ### Por que escrever bem importa
 
-A razão de aprender a escrever bem não é vaidade nem autoridade de internet. É evitar virar analfabeto funcional dentro da própria tradição que se ensina. Quando o praticante erra a escrita das técnicas que pratica, abre flanco para que terceiros questionem seu saber por motivo bobo, e essa exposição é desnecessária. Si Fu foi explícito: o objetivo da *expertise* na escrita é blindar o trabalho de questionamentos triviais, não disputar palco. Escrita correta é piso, não teto.
+A razão de aprender a escrever bem não é vaidade nem autoridade de internet. É evitar virar analfabeto funcional dentro da própria tradição que se ensina. Quando o praticante erra a escrita das técnicas que pratica, abre flanco para que terceiros questionem seu saber por motivo bobo, e essa exposição é desnecessária. Si Fu foi explícito: o objetivo da *expertise* na escrita é blindar o trabalho de questionamentos triviais, não disputar palco.
 
 ### Chinês, Mandarim, Cantonês: o que é o quê
 
@@ -22,7 +22,7 @@ Antes de qualquer aula de língua, é preciso desfazer o nó terminológico. "Ch
 
 ### O nome do Império
 
-A palavra "China" não é usada na China. O país se chama 中國, *Zhōngguó*, o País do Centro, e em outros registros aparece como Império. É um detalhe de nomenclatura que abre uma porta: a língua chinesa não é baseada em alfabeto, é baseada em ideogramas, ou seja, em ideias. Cada caractere é uma unidade de sentido antes de ser uma unidade de som, e isso muda tudo o que vem depois.
+A palavra "China" não é usada na China. O país se chama 中國, *Zhōngguó*, o País do Centro, e em outros registros aparece como Império. É um detalhe de nomenclatura que abre uma porta: a língua chinesa não é baseada em alfabeto, é baseada em ideogramas, ou seja, em ideias. Cada caractere é uma unidade de sentido antes de ser uma unidade de som.
 
 ### Mandarim como latim do Império
 
@@ -44,7 +44,7 @@ Surgiu na aula a pergunta se Pinyin é um *sistema* ou só um *mapeamento*, uma 
 
 O Cantonês não passou pela simplificação, embora falantes de Cantonês quase sempre consigam ler texto simplificado, porque aprenderam isso na escola sob o currículo oficial. Tem particularidades que o Mandarim não tem: existem palavras do dia a dia que não têm par escrito em ideograma, e nesses casos se usa um substituto improvisado. O exemplo que apareceu foi a palavra "lápis".
 
-E como o Cantonês não tem um sistema oficial de transliteração equivalente ao Pinyin, sobram vários métodos concorrentes de escrita romanizada. O efeito atravessa até a identidade familiar: é por isso que o sobrenome 梅 aparece grafado como Mo, Moy, Mui, dependendo da família e da época em que essa família registrou a romanização. A família Mo-Sã é um caso concreto disso. Onde o Pinyin é continente, a romanização do Cantonês é arquipélago.
+E como o Cantonês não tem um sistema oficial de transliteração equivalente ao Pinyin, sobram vários métodos concorrentes de escrita romanizada. O efeito atravessa até a identidade familiar: é por isso que o sobrenome 梅 aparece grafado como Mo, Moy, Mui, dependendo da família e da época em que essa família registrou a romanização. A família Mo-Sã é um caso concreto disso.
 
 ### Tons
 
@@ -62,4 +62,4 @@ Algumas decisões práticas saíram da aula:
 
 ### Fio condutor
 
-Três escalas, uma exigência repetida: existe um eixo, e o que se faz só funciona quando se relaciona corretamente com esse eixo. O ideograma mal escrito é incomunicável. O dialeto que insiste em existir fora do sistema oficial é político. O Pinyin é o cabo que conecta som a ideia, e ideia a Estado. A aula foi instrumental no nome, mas o instrumento, em todo nível, é o mesmo: um sistema de unificação operando em camadas.
+Três escalas, uma exigência repetida: existe um eixo, e o que se faz só funciona quando se relaciona corretamente com esse eixo. O ideograma mal escrito é incomunicável. O dialeto que insiste em existir fora do sistema oficial é político. O Pinyin é o cabo que conecta som a ideia, e ideia a Estado.
