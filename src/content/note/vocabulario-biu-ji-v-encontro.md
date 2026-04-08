@@ -6,10 +6,10 @@ tags: ["china", "linguagem", "chines-instrumental", "biu-ji"]
 
 Caracteres do nome da terceira sequência do Ving Tsun, 標指 (*Biu Ji*):
 
-- [標](https://www.mdbg.net/chinese/dictionary?page=worddict&wdqb=%E6%A8%99) *biāo* / *biu1*
-- [指](https://www.mdbg.net/chinese/dictionary?page=worddict&wdqb=%E6%8C%87) *zhǐ* / *zi2*
+- [標](https://www.mdbg.net/chinese/dictionary?page=worddict&wdqb=%E6%A8%99) *biāo* / *biu1* — marca, sinal, alvo; marcar, apontar
+- [指](https://www.mdbg.net/chinese/dictionary?page=worddict&wdqb=%E6%8C%87) *zhǐ* / *zi2* — dedo; apontar, indicar
 
-E o composto 借喻指南針, "tomar emprestada a metáfora da bússola":
+E o composto 借喻指南針, "tomar a bússola como exemplo":
 
 - [借](https://www.mdbg.net/chinese/dictionary?page=worddict&wdqb=%E5%80%9F) *jiè* / *ze3* — tomar emprestado
 - [喻](https://www.mdbg.net/chinese/dictionary?page=worddict&wdqb=%E5%96%BB) *yù*, *yú* / *jyu6* — metáfora, analogia
