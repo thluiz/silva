@@ -24,8 +24,6 @@ A outra grafia é 師父. Mesmo som, outro *Fu*: o de pai. Pictograficamente, um
 
 Provérbio chinês citado por Si Fu: o aprendiz deve *aprender a amar* o Si Fu e *respeitar* o pai. A inversão é o ponto. O respeito ao pai vem dado, o afeto pelo Si Fu se constrói.
 
-Tarefa de casa marcada na aula: seis caligrafias de cada Si Fu, no papel grande. Ter boa caligrafia em chinês importa mais do que ter boa caligrafia em português, e isso é parte do processo cultural, não enfeite.
-
 ### Da Si (大師) e o Si Hing como redução
 
 *Da* é grande. 大師 (*Da Si*) é grande mestre, honorável mestre. O ponto contraintuitivo é que *Da Si* é o termo *original*, e o *Si Hing* ("irmão mais velho-mestre") é uma redução dele: "grande mestre que é meu irmão mais velho". A direção etimológica vai do todo para a parte, não da parte para o todo.
