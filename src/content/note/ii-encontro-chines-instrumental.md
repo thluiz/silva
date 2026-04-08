@@ -54,6 +54,3 @@ A posição do caractere é convenção, e ela diferencia trilhas. *Si* na frent
 
 Na nossa família, se for estabelecido que senioridade são 12 anos de mestria, ela é alcançada por simples passagem de tempo, em data marcada pelo calendário, não por idade biológica nem por nova prova. O exemplo recorrente, do lado oposto, é a faixa vermelha da família Gracie, que só vem após os 65, e é critério etário puro. Aqui o critério é outro: o relógio rodou. Para mim, então, 2036.
 
-### Fio condutor
-
-Toda a malha de termos discutida no dia faz a mesma coisa por baixo: nomeia uma posição relativa dentro de uma estrutura viva. *Si* é referência. *Lou Si* é referência envelhecida. *Si Fu* (nas duas grafias) é referência que se aproxima, ou da mestria, ou do papel paterno. *Da Si* é referência elevada para fora da casa. *Sinsan* é referência sem hierarquia. *Moon Pai* é o desenho do tronco. Em cada termo há um cuidado de instalação do falante: quem você é em relação ao outro, e o que essa posição autoriza dizer.
