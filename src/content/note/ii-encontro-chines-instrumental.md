@@ -36,7 +36,7 @@ O uso de *Dai Si* é formal, para fora da família Kung Fu, em apresentações, 
 
 ### Si Jo, Jo Si: a ordem que diferencia trilhas
 
-A posição do caractere é convenção, e ela diferencia trilhas. *Si* (師) na frente (*Si Hing* 師兄, *Si Fu* 師父, *Si Gung* 師公, *Si Tai* 師太) marca a trilha da ancestralidade dentro da família: irmão mais velho, pai, avô, avó. *Jo* (祖, antecessor) na frente, como em *Jo Si* (祖師), marca o fundador. É o jeito de não confundir o ancestral linear com quem fundou a coisa toda.
+A posição do caractere é convenção, e ela diferencia trilhas. *Si* (師) na frente (*Si Hing* 師兄, *Si Fu* 師父, *Si Mo* 師母, *Si Gung* 師公, *Si Tai* 師太) marca a trilha da ancestralidade dentro da família: irmão mais velho, pai, mãe, avô, avó. *Jo* (祖, antecessor) na frente, como em *Jo Si* (祖師), marca o fundador. É o jeito de não confundir o ancestral linear com quem fundou a coisa toda.
 
 ### Sinsan (先生): nascido antes
 
