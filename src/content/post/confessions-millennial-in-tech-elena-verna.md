@@ -1,5 +1,5 @@
 ---
-title: 'Confessions of a Millennial in Tech'
+title: "Notas sobre 'Confessions of a Millennial in Tech' de Elena Verna"
 description: "Elena Verna lista cinco angústias de quem trabalha com tech na era da IA; o ganho real de produtividade provavelmente não passa de 10% e o diferencial continua sendo senso de perigo e repertório."
 publishDate: "2026-04-09T10:37:22+01:00"
 tags: ["ai", "carreira", "mercado-de-trabalho"]
