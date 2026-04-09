@@ -40,7 +40,7 @@ sources:
     kind: research
 ---
 
-O texto abaixo nasceu de uma troca de mensagens com o [Henrique Jardim](https://www.linkedin.com/in/henriquefjardim) no dia 1 de março de 2026. Editei pouca coisa para publicar aqui -- o tom é de conversa mesmo.
+O texto abaixo nasceu de uma troca de mensagens com o [Henrique Jardim](https://www.linkedin.com/in/henriquefjardim) no dia 1 de março de 2026. Editei pouca coisa para publicar aqui. O tom é de conversa mesmo.
 
 ---
 
@@ -56,7 +56,7 @@ Porém ele demora nas respostas (e sempre vai demorar). Acabamos fazendo várias
 
 Dito isso, como ferramenta de trabalho, acho que é uma revolução talvez maior que orientação a objetos ou IDEs. A empresa que conseguir pagar para ter acesso sempre vai ter uma vantagem competitiva.
 
-Às custas de burnouts? Até os programadores aprenderem a usar, e os gestores entenderem o que esperar, vai haver um moedor de carne grande pela frente. Orientação a objetos surgiu nos anos 60-70 e só ganhou tração uns 20-30 anos depois. Estamos diante de um fenômeno parecido. IDEs (Delphi, Pascal, VB...) custavam um rim. Os programadores eram caros, ninguém tinha acesso ao tooling, então quem sabia usar valia ouro ou era preciso treinar internamente -- uma aposta que, como o Altman coloca num vídeo recente, o empresário não valoriza.
+Às custas de burnouts? Até os programadores aprenderem a usar, e os gestores entenderem o que esperar, vai haver um moedor de carne grande pela frente. Orientação a objetos surgiu nos anos 60-70 e só ganhou tração uns 20-30 anos depois. Estamos diante de um fenômeno parecido. IDEs (Delphi, Pascal, VB...) custavam um rim. Os programadores eram caros, ninguém tinha acesso ao tooling, então quem sabia usar valia ouro ou era preciso treinar internamente. Como o Altman coloca num vídeo recente, o empresário não valoriza essa aposta.
 
 A orientação a objetos só existe por causa disso: porque o programador pode ser alienado do próprio trabalho. Dá muito mais trabalho fazer um software ou um sistema integrado, com taxonomia, em que qualquer um possa se achar rápido. Dá trabalho fazer algo que possa ser mantido por um bom tempo.
 
