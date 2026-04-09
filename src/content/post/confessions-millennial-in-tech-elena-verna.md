@@ -53,3 +53,7 @@ Se houver de fato uma crise de jovens nos próximos anos, o salário dos seniore
 O ponto 3 é interessante e é reflexo dos dois primeiros: o jogo mudou. De fato, aquele feijão com arroz que fazíamos para desestressar, a IA faz rapidamente (quem paga os 10% de "ganho"? a saúde mental do proletariado?). Portanto, o bom senso, repertório, experiência adquirida ganham ainda mais valor. É possível pivotar rapidamente qualquer solução, porém o custo de uma entrega mal feita pode ser catastrófico. O diferencial está em saber o que de fato entrega valor para o cliente e o que não pode acontecer de jeito nenhum (e se tem uma coisa que jovens não têm é senso de perigo).
 
 Achei o post no blog dela bem mais interessante, mais refrescante. O do LinkedIn passa a mesma mensagem, mas perde muito da voz dela.
+
+*T L Si - Thiago Silva*<br/>
+*Moy Chi Yau Si*<br/>
+*梅 知 友 士*
