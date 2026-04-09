@@ -5,6 +5,120 @@ publishDate: "2026-04-03T13:21:41+01:00"
 tags: ["organizações", "burocracia", "pensamento-chinês", "filosofia"]
 lang: "pt"
 pinned: true
+sources:
+  - title: "RT Comentado 56, Manual de Sabotagem da OSS"
+    url: "https://vox.thluiz.com/2026/04/W14/rt-comentado-56-como-sabotar-seu-chefe-o-manual-secreto-da-oss"
+    kind: podcast
+  - title: "#113, Pensamento Chinês, Giorgio Sinedino"
+    url: "https://vox.thluiz.com/2020/12/W50/113-pensamento-chines-giorgio-sinedino"
+    kind: podcast
+  - title: "Neocortex size as a constraint on group size in primates"
+    author: "Dunbar, R. I. M."
+    year: 1992
+    publisher: "Journal of Human Evolution 22(6)"
+    kind: paper
+  - title: "Lectures on the History of Philosophy, seção sobre Sócrates"
+    author: "Hegel, G.W.F."
+    year: 1826
+    kind: book
+  - title: "The Poverty of Philosophy, Cap. 2"
+    author: "Marx, Karl"
+    year: 1847
+    url: "https://www.marxists.org/archive/marx/works/1847/poverty-philosophy/ch02.htm"
+    kind: book
+  - title: "dialectic"
+    url: "https://www.etymonline.com/word/dialectic"
+    publisher: "Online Etymology Dictionary"
+    kind: article
+  - title: "Ideias para adiar o fim do mundo"
+    author: "Krenak, Ailton"
+    year: 2019
+    kind: book
+  - title: "Walmart employees"
+    url: "https://stockanalysis.com/stocks/wmt/employees/"
+    publisher: "Stock Analysis"
+    kind: article
+  - title: "China public sector employment"
+    url: "https://chinascope.org/archives/32095"
+    publisher: "Chinascope"
+    kind: article
+  - title: "SOEs na China"
+    url: "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/449701565248091726/"
+    publisher: "World Bank"
+    kind: article
+  - title: "Indian Railways"
+    url: "https://en.wikipedia.org/wiki/Indian_Railways"
+    kind: wiki
+  - title: "Imperial examination (keju 科舉)"
+    url: "https://en.wikipedia.org/wiki/Imperial_examination"
+    kind: wiki
+  - title: "Gentry (China) (shēnshì 紳士)"
+    url: "https://en.wikipedia.org/wiki/Gentry_(China)"
+    kind: wiki
+  - title: "UK Public Sector Employment"
+    url: "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/publicsectorpersonnel"
+    publisher: "ONS"
+    kind: article
+  - title: "US Federal Employment Reports"
+    url: "https://www.opm.gov/policy-data-oversight/data-analysis-documentation/federal-employment-reports/"
+    publisher: "OPM"
+    kind: article
+  - title: "Qing government"
+    url: "https://afe.easia.columbia.edu/qing/state.html"
+    publisher: "Columbia Asia for Educators"
+    kind: article
+  - title: "Who Built the Pyramids?"
+    url: "https://www.harvardmagazine.com/2003/07/who-built-the-pyramids-html"
+    publisher: "Harvard Magazine"
+    kind: article
+  - title: "Les papyrus de la Mer Rouge I: Le journal de Merer"
+    author: "Tallet, Pierre"
+    year: 2017
+    kind: book
+  - title: "Anthropogenic Dark Earths in Central Amazonia"
+    author: "Glaser, B. & Birk, J.J."
+    year: 2012
+    url: "https://doi.org/10.1016/j.gca.2010.11.029"
+    publisher: "Geochimica et Cosmochimica Acta 82"
+    kind: paper
+  - title: "Persistent effects of pre-Columbian plant domestication on Amazonian forest composition"
+    author: "Levis, C. et al."
+    year: 2017
+    url: "https://doi.org/10.1126/science.aal0157"
+    publisher: "Science 355(6328)"
+    kind: paper
+  - title: "The Use of Fire in the Cerrado and Amazonian Rainforests of Brazil"
+    author: "Pivello, V.R."
+    year: 2011
+    url: "https://doi.org/10.4996/fireecology.0701024"
+    publisher: "Fire Ecology 7(1)"
+    kind: paper
+  - title: "1491"
+    author: "Mann, C.C."
+    year: 2002
+    url: "https://www.theatlantic.com/magazine/archive/2002/03/1491/302445/"
+    publisher: "The Atlantic Monthly"
+    kind: article
+  - title: "Foto cover: Shino Nakamura"
+    url: "https://unsplash.com/pt-br/fotografias/textil-floral-azul-e-amarelo-MBHhxbj2qQE"
+    publisher: "Unsplash"
+    kind: other
+  - title: "Foto Grande Muralha: Christian Weinberg"
+    url: "https://unsplash.com/pt-br/fotografias/grande-muralha-da-china-china-_-9vG7gl1HA"
+    publisher: "Unsplash"
+    kind: other
+  - title: "Foto Parthenon: Spencer Davis"
+    url: "https://unsplash.com/pt-br/fotografias/vista-da-ruina-marrom-durante-o-dia-ilQmlVIMN4c"
+    publisher: "Unsplash"
+    kind: other
+  - title: "Foto Dubai: David Rodrigo"
+    url: "https://unsplash.com/pt-br/fotografias/foto-aerea-da-rodovia-da-cidade-cercada-por-arranha-ceus-Fr6zexbmjmc"
+    publisher: "Unsplash"
+    kind: other
+  - title: "Foto indígena: Daniel Tischer"
+    url: "https://unsplash.com/pt-br/fotografias/uma-mulher-idosa-com-um-tambor-na-mao-eXLhhGIcdtU"
+    publisher: "Unsplash"
+    kind: other
 coverImage:
   src: "./fractal.jpg"
   alt: "Padrão fractal em mosaico islâmico. Foto: Shino Nakamura / Unsplash"
@@ -100,32 +214,3 @@ O mais importante é que existem infinitas formas de se organizar no mundo, nenh
 *梅 知 友 士*
 
 ---
-
-**Fontes e referências:**
-- [RT Comentado 56, Manual de Sabotagem da OSS](https://vox.thluiz.com/2026/04/W14/rt-comentado-56-como-sabotar-seu-chefe-o-manual-secreto-da-oss)
-- [#113, Pensamento Chinês, Giorgio Sinedino](https://vox.thluiz.com/2020/12/W50/113-pensamento-chines-giorgio-sinedino)
-- Dunbar, R. I. M. (1992), *Neocortex size as a constraint on group size in primates*, Journal of Human Evolution 22(6)
-- Hegel, G.W.F., *Lectures on the History of Philosophy* (1825-26), seção sobre Sócrates
-- Marx, Karl, [*The Poverty of Philosophy*](https://www.marxists.org/archive/marx/works/1847/poverty-philosophy/ch02.htm) (1847), Cap. 2
-- [dialectic, Online Etymology Dictionary](https://www.etymonline.com/word/dialectic)
-- Krenak, Ailton, *Ideias para adiar o fim do mundo* (2019)
-- [Walmart employees, Stock Analysis](https://stockanalysis.com/stocks/wmt/employees/)
-- [China public sector employment, Chinascope](https://chinascope.org/archives/32095)
-- [SOEs na China, World Bank](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/449701565248091726/)
-- [Indian Railways, Wikipedia](https://en.wikipedia.org/wiki/Indian_Railways)
-- keju 科舉: [Imperial examination, Wikipedia](https://en.wikipedia.org/wiki/Imperial_examination)
-- shēnshì 紳士: [Gentry (China), Wikipedia](https://en.wikipedia.org/wiki/Gentry_(China))
-- [UK Public Sector Employment, ONS](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/publicsectorpersonnel)
-- [US Federal Employment Reports, OPM](https://www.opm.gov/policy-data-oversight/data-analysis-documentation/federal-employment-reports/)
-- [Qing government, Columbia Asia for Educators](https://afe.easia.columbia.edu/qing/state.html)
-- [Who Built the Pyramids?, Harvard Magazine](https://www.harvardmagazine.com/2003/07/who-built-the-pyramids-html)
-- Tallet, Pierre, *Les papyrus de la Mer Rouge I: Le journal de Merer* (2017)
-- Glaser, B. & Birk, J.J. (2012), [Anthropogenic Dark Earths in Central Amazonia](https://doi.org/10.1016/j.gca.2010.11.029), *Geochimica et Cosmochimica Acta* 82
-- Levis, C. et al. (2017), [Persistent effects of pre-Columbian plant domestication on Amazonian forest composition](https://doi.org/10.1126/science.aal0157), *Science* 355(6328)
-- Pivello, V.R. (2011), [The Use of Fire in the Cerrado and Amazonian Rainforests of Brazil](https://doi.org/10.4996/fireecology.0701024), *Fire Ecology* 7(1)
-- Mann, C.C. (2002), [1491](https://www.theatlantic.com/magazine/archive/2002/03/1491/302445/), *The Atlantic Monthly*
-- Foto cover: [Shino Nakamura / Unsplash](https://unsplash.com/pt-br/fotografias/textil-floral-azul-e-amarelo-MBHhxbj2qQE)
-- Foto Grande Muralha: [Christian Weinberg / Unsplash](https://unsplash.com/pt-br/fotografias/grande-muralha-da-china-china-_-9vG7gl1HA)
-- Foto Parthenon: [Spencer Davis / Unsplash](https://unsplash.com/pt-br/fotografias/vista-da-ruina-marrom-durante-o-dia-ilQmlVIMN4c)
-- Foto Dubai: [David Rodrigo / Unsplash](https://unsplash.com/pt-br/fotografias/foto-aerea-da-rodovia-da-cidade-cercada-por-arranha-ceus-Fr6zexbmjmc)
-- Foto indígena: [Daniel Tischer / Unsplash](https://unsplash.com/pt-br/fotografias/uma-mulher-idosa-com-um-tambor-na-mao-eXLhhGIcdtU)
