@@ -75,6 +75,7 @@ export default defineConfig({
 				{
 					rel: ["noreferrer", "noopener"],
 					target: "_blank",
+					properties: { className: ["external-link"] },
 				},
 			],
 			rehypeUnwrapImages,

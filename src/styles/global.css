@@ -121,6 +121,14 @@
 	.title {
 		@apply text-accent-2 text-2xl font-semibold;
 	}
+
+	.external-link {
+		color: var(--color-accent);
+	}
+	.external-link::after {
+		content: " ↗";
+		font-size: 0.75em;
+	}
 }
 
 @utility prose {
@@ -130,7 +138,7 @@
 	--tw-prose-code: var(--color-global-text);
 	--tw-prose-headings: var(--color-accent-2);
 	--tw-prose-hr: 0.5px dashed #666;
-	--tw-prose-links: var(--color-global-text);
+	--tw-prose-links: var(--color-accent);
 	--tw-prose-quotes: var(--color-quote);
 	--tw-prose-th-borders: #666;
 }

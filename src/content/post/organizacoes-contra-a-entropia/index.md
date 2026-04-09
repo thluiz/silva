@@ -163,7 +163,7 @@ No oriente, a Índia, com seus 8 milhões de funcionários federais e estaduais 
 
 A China novamente se destaca: somando o funcionalismo público e as empresas estatais, são mais de 56 milhões de pessoas. Se incluirmos saúde e educação pública, passa de 80 milhões. Um em cada quatro trabalhadores urbanos chineses trabalha para o Estado.
 
-Num [podcast sobre pensamento chinês](https://vox.thluiz.com/2020/12/W50/113-pensamento-chines-giorgio-sinedino), o professor Sinedino lembrava que a [Índia busca a eternidade e o transcendente](https://silva.thluiz.com/notes/india-eternidade-china-realidade), enquanto a China busca a realidade. Duas civilizações que administram mais de um bilhão de pessoas cada, com direções diferentes mas a mesma preocupação: como as ações reverberam para gerações posteriores.
+Num [podcast sobre pensamento chinês](https://vox.thluiz.com/2020/12/W50/113-pensamento-chines-giorgio-sinedino), o professor Sinedino lembrava que a [Índia busca a eternidade e o transcendente](https://scholion.thluiz.com/notes/india-eternidade-china-realidade), enquanto a China busca a realidade. Duas civilizações que administram mais de um bilhão de pessoas cada, com direções diferentes mas a mesma preocupação: como as ações reverberam para gerações posteriores.
 
 ![Grande Muralha da China. Foto: Christian Weinberg / Unsplash](./cover.jpg)
 
@@ -201,7 +201,7 @@ A [terra preta de índio](https://doi.org/10.1016/j.gca.2010.11.029), solo fért
 
 154 mil km²? Acho que posso aceitar como maior empreitada humana.
 
-[Ailton Krenak](https://silva.thluiz.com/notes/krenak-vida-nao-e-util), ao ser questionado sobre o fim do mundo, se dizia confortável: o povo dele passou pelo fim do mundo cinco séculos antes, com a chegada dos europeus, e segue persistindo. A pergunta dele era como os brancos iriam se virar diante do próprio apocalipse autoimposto.
+[Ailton Krenak](https://scholion.thluiz.com/notes/krenak-vida-nao-e-util), ao ser questionado sobre o fim do mundo, se dizia confortável: o povo dele passou pelo fim do mundo cinco séculos antes, com a chegada dos europeus, e segue persistindo. A pergunta dele era como os brancos iriam se virar diante do próprio apocalipse autoimposto.
 
 ---
 
