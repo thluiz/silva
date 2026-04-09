@@ -39,7 +39,19 @@ const post = defineCollection({
 				.optional()
 				.transform((str) => (str ? new Date(str) : undefined)),
 			pinned: z.boolean().default(false),
-		lang: z.enum(["pt", "en"]).default("pt"),
+			lang: z.enum(["pt", "en"]).default("pt"),
+			sources: z
+				.array(
+					z.object({
+						title: z.string(),
+						author: z.string().optional(),
+						year: z.number().optional(),
+						publisher: z.string().optional(),
+						url: z.string().optional(),
+						kind: z.string().optional(),
+					}),
+				)
+				.default([]),
 		}),
 });
 

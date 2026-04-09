@@ -1,0 +1,32 @@
+---
+interface Source {
+	title: string;
+	author?: string;
+	year?: number;
+	publisher?: string;
+	url?: string;
+	kind?: string;
+}
+
+interface Props {
+	sources: Source[];
+}
+
+const { sources } = Astro.props;
+if (!sources.length) return;
+---
+
+<section class="not-prose mt-10 border-t border-dashed border-zinc-300 pt-4 dark:border-zinc-700">
+	<p class="text-muted mb-2 text-xs font-semibold uppercase tracking-wide">Fontes</p>
+	<ol class="list-decimal space-y-1 ps-5 text-sm">
+		{sources.map((s) => (
+			<li>
+				{s.url ? <a href={s.url} target="_blank" rel="noopener">{s.title}</a> : <span>{s.title}</span>}
+				{s.author && <span class="text-muted"> — {s.author}</span>}
+				{s.year && <span class="text-muted"> ({s.year})</span>}
+				{s.publisher && <span class="text-muted">, {s.publisher}</span>}
+				{s.kind && <span class="text-muted text-xs"> [{s.kind}]</span>}
+			</li>
+		))}
+	</ol>
+</section>
