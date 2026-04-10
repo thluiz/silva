@@ -5,6 +5,10 @@ publishDate: "2026-03-29"
 tags: ["filosofia"]
 lang: "pt"
 pinned: true
+pin_weight: 100
+coverImage:
+  src: "./forest-unsplash.jpg"
+  alt: "Foto de floresta por Sebastian Unrau no Unsplash"
 ---
 
 Estácio escolheu o título *Silvae* com ironia consciente: "isto é material de floresta, não obra acabada."

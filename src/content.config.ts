@@ -39,6 +39,7 @@ const post = defineCollection({
 				.optional()
 				.transform((str) => (str ? new Date(str) : undefined)),
 			pinned: z.boolean().default(false),
+			pin_weight: z.number().default(0),
 			lang: z.enum(["pt", "en"]).default("pt"),
 			sources: z
 				.array(

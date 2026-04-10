@@ -1,11 +1,12 @@
 ---
+import { Icon } from "astro-icon/components";
 import Search from "@/components/Search.astro";
 import ThemeToggle from "@/components/ThemeToggle.astro";
 import { menuLinks } from "@/site.config";
 import { siteConfig } from "../../site.config";
 ---
 
-<header class="group relative mb-28 flex items-center sm:ps-18" id="main-header">
+<header class="group relative mb-16 flex items-center sm:ps-18" id="main-header">
 	<div class="flex sm:flex-col">
 		<a
 			aria-current={Astro.url.pathname === "/" ? "page" : false}
@@ -37,6 +38,14 @@ import { siteConfig } from "../../site.config";
 			}
 		</nav>
 	</div>
+	<a class="hover:text-link ms-auto" href="https://github.com/thluiz" target="_blank" rel="noreferrer" title="GitHub">
+		<Icon aria-hidden="true" class="h-5 w-5" focusable="false" name="mdi:github" />
+		<span class="sr-only">GitHub</span>
+	</a>
+	<a class="hover:text-link" href="https://www.linkedin.com/in/thluiz" target="_blank" rel="noreferrer" title="LinkedIn">
+		<Icon aria-hidden="true" class="h-5 w-5" focusable="false" name="mdi:linkedin" />
+		<span class="sr-only">LinkedIn</span>
+	</a>
 	<Search />
 	<ThemeToggle />
 	<mobile-button>

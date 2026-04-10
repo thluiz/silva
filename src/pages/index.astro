@@ -1,65 +1,79 @@
 ---
 import type { CollectionEntry } from "astro:content";
-import PostPreview from "@/components/blog/PostPreview.astro";
-import SocialList from "@/components/SocialList.astro";
-import { getAllPosts } from "@/data/post";
+import PostCard from "@/components/blog/PostCard.astro";
+import { getAllPosts, getUniqueTagsWithCount } from "@/data/post";
 import PageLayout from "@/layouts/Base.astro";
 import { collectionDateSort } from "@/utils/date";
 
-// Posts
-const MAX_POSTS = 10;
+const MAX_POSTS = 12;
+const MAX_TAGS = 12;
+const MAX_PINNED_POSTS = 3;
+
 const allPosts = await getAllPosts();
 const allPostsByDate = allPosts.sort(collectionDateSort) as CollectionEntry<"post">[];
-const latestPosts = allPostsByDate.slice(0, MAX_POSTS);
-
-// Pinned Posts, set to a max of 3;
-const MAX_PINNED_POSTS = 3;
 const pinnedPosts = allPostsByDate
-	.values()
 	.filter((p) => p.data.pinned)
-	.take(MAX_PINNED_POSTS)
-	.toArray();
+	.sort((a, b) => (b.data.pin_weight ?? 0) - (a.data.pin_weight ?? 0))
+	.slice(0, MAX_PINNED_POSTS);
+const pinnedIds = new Set(pinnedPosts.map((p) => p.id));
+const latestPosts = allPostsByDate.filter((p) => !pinnedIds.has(p.id)).slice(0, MAX_POSTS);
+const topTags = getUniqueTagsWithCount(allPosts).slice(0, MAX_TAGS);
 ---
 
 <PageLayout meta={{ title: "Home" }}>
-	<section>
-		<h1 class="title mb-4">Silva</h1>
-		<p class="mb-2">
-			Filosofia, sistemas, kung fu, carreira, tecnologia e outras linguagens.
+	<section class="silva-home">
+		<p>Filosofia, sistemas, kung fu, carreira, tecnologia e outras linguagens.</p>
+		<p class="text-sm mt-1">
+			<span class="text-muted italic">"Silva: matéria bruta de floresta."</span>
+			~<a class="cactus-link external-link" href="https://scholion.thluiz.com/notes/quintiliano/" target="_blank" rel="noreferrer noopener">Quintiliano</a>
+			· <a class="cactus-link text-accent" href="/about/">Sobre o nome →</a>
+			· <span class="text-muted">{allPosts.length} textos</span>
 		</p>
-		<blockquote class="mb-2 border-l-2 pl-4 text-sm italic">
-			<span class="text-muted">"Silva: matéria bruta de floresta — notas ainda não trabalhadas em forma definitiva."</span>
-			<br /><span class="not-italic">~<a class="cactus-link external-link" href="https://scholion.thluiz.com/notes/quintiliano/" target="_blank" rel="noreferrer noopener">Quintiliano</a></span>
-		</blockquote>
-		<p class="mb-8 text-sm">
-			<a class="cactus-link text-accent" href="/about/">Sobre o nome →</a>
-		</p>
-		<SocialList />
-	</section>
-	{
-		pinnedPosts.length > 0 && (
-			<section class="mt-16">
-				<h2 class="title mb-6 text-xl">Pinned Posts</h2>
-				<ul class="space-y-4" role="list">
-					{pinnedPosts.map((p) => (
-						<li class="grid gap-1 sm:grid-cols-[auto_1fr]">
-							<PostPreview post={p} />
+
+		{
+			pinnedPosts.length > 0 && (
+				<section class="silva-home-section">
+					<h2 class="silva-home-section-title">Em destaque</h2>
+					<ul class="silva-grid silva-grid--pinned" role="list">
+						{pinnedPosts.map((p) => (
+							<PostCard post={p} />
+						))}
+					</ul>
+				</section>
+			)
+		}
+
+		<section class="silva-home-section">
+			<div class="silva-home-section-head">
+				<h2 class="silva-home-section-title">Recentes</h2>
+				<a class="cactus-link text-accent text-sm" href="/posts/">ver todos →</a>
+			</div>
+			<ul class="silva-grid" role="list">
+				{
+					latestPosts.map((p) => (
+						<PostCard post={p} />
+					))
+				}
+			</ul>
+		</section>
+
+		<section class="silva-home-section">
+			<div class="silva-home-section-head">
+				<h2 class="silva-home-section-title">Explorar por tag</h2>
+				<a class="cactus-link text-accent text-sm" href="/tags/">todas as tags →</a>
+			</div>
+			<ul class="silva-tag-cloud">
+				{
+					topTags.map(([tag, count]) => (
+						<li>
+							<a href={`/tags/${tag}/`}>
+								<span class="silva-tag-name">#{tag}</span>
+								<span class="silva-tag-count">{count}</span>
+							</a>
 						</li>
-					))}
-				</ul>
-			</section>
-		)
-	}
-	<section class="mt-16">
-		<h2 class="title text-accent mb-6 text-xl"><a href="/posts/">Posts</a></h2>
-		<ul class="space-y-4" role="list">
-			{
-				latestPosts.map((p) => (
-					<li class="grid gap-1 sm:grid-cols-[auto_1fr]">
-						<PostPreview post={p} />
-					</li>
-				))
-			}
-		</ul>
+					))
+				}
+			</ul>
+		</section>
 	</section>
 </PageLayout>
