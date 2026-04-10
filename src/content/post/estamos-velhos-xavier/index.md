@@ -5,6 +5,9 @@ publishDate: "2026-03-01"
 tags: ["ai", "carreira", "mercado-de-trabalho", "historietas"]
 lang: pt
 draft: false
+coverImage:
+  src: "./old-tree-nuno-marques-unsplash.jpg"
+  alt: "Foto de árvore solitária por Nuno Marques no Unsplash"
 sources:
   - title: "Software Disenchantment"
     author: "Nikita Prokopov"
