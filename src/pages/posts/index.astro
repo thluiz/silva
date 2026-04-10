@@ -1,0 +1,31 @@
+---
+import { Icon } from "astro-icon/components";
+import PostCard from "@/components/blog/PostCard.astro";
+import { getAllPosts } from "@/data/post";
+import PageLayout from "@/layouts/Base.astro";
+import { collectionDateSort } from "@/utils/date";
+
+const allPosts = await getAllPosts();
+const posts = allPosts.sort(collectionDateSort);
+
+const meta = {
+	description: "Textos sobre filosofia, sistemas, kung fu, carreira, tecnologia e outras linguagens.",
+	title: "Textos",
+};
+---
+
+<PageLayout meta={meta}>
+	<div class="mb-8 flex items-center gap-3">
+		<h1 class="title">Textos</h1>
+		<a class="text-accent" href="/rss.xml" target="_blank">
+			<span class="sr-only">RSS feed</span>
+			<Icon aria-hidden="true" class="h-6 w-6" focusable="false" name="mdi:rss" />
+		</a>
+		<span class="text-muted text-sm">{posts.length} textos</span>
+	</div>
+	<ul class="silva-grid" role="list">
+		{posts.map((p) => (
+			<PostCard post={p} />
+		))}
+	</ul>
+</PageLayout>

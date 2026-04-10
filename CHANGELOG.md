@@ -1,5 +1,41 @@
 # Changelog
 
+## 2026-04-10
+
+### Features
+- Layout de cards (PostCard.astro) para listagens de posts, inspirado no Scholion
+- Tag cloud com contagem na página /tags/ e na home
+- Caixa visual (.silva-post) nos posts individuais e na página Sobre
+- Cover image nos cards (posts com coverImage mostram imagem no topo)
+- Campo pin_weight no schema para ordenar posts fixados
+- Links sociais (GitHub, LinkedIn) no header
+- Página Tags no menu de navegação
+- Indicador visual de página ativa no nav
+- Seção "Explorar por tag" na home
+
+### Edits
+- Post "Estamos Velhos, Xavier" adaptado do Obsidian para publicação
+- Post 拳無禮讓，棍無兩響: Bruce Lee, Si Baak Anderson, Si Hing Vladimir, fontes, assinatura
+- Imagem de floresta (Unsplash) no post Silva
+- Frase do Scholion atualizada na página Sobre
+- Página /posts/ simplificada: lista única sem agrupamento por ano nem paginação
+- Meta descriptions traduzidas para português
+- Rocket emoji removido do footer
+
+### Visual
+- Tema verde (#4cc908 light / oklch(62% 0.24 150) dark) substituindo terracota
+- Fundo Apple gray (#f5f5f7) no tema claro
+- Cards e post box com fundo levemente verde-branco (light) e preto-verde (dark)
+- Tag cloud com dark mode
+- Favicon trocado para selo 士 (Si)
+- 知 em vermelho no footer
+- Header reduzido de mb-28 para mb-16
+- Grid pinned responsivo (3 cols > 2 cols > 1 col)
+- Fontes mínimas nos cards aumentadas (tags 0.7rem, datas 0.7rem)
+- Hover dos cards limitado a dispositivos com pointer (hover: hover)
+- Prose dos posts de prose-sm para prose (16px)
+- Pin indicator movido para canto superior direito
+
 ## 2026-04-09
 
 ### Features
