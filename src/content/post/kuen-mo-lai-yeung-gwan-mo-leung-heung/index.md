@@ -29,7 +29,7 @@ No Hai Tong por [Moy Yat](https://moyyat.institute), a descrição do Luk Dim Bu
 
 Esbarrei no YouTube um dia com uma [entrevista perdida do Bruce Lee ao Pierre Berton Show em 1971](https://archive.org/details/BruceLeeTheLostInterviewthePierreBertonShow1971) que dizia algo como: *"When you punch you really punch. You can't lie to yourself."* Não sei se ele conhecia esse ditado.
 
-Esse Lai (禮) é o mesmo de Moy Wu Lai (梅護禮), meu querido Si Hing (師兄) Vladimir Anchieta. Se tem uma pessoa que não faz cerimônia é ele, sempre que se propõe a fazer algo ele o faz. O que balanceia com o Wu (護) de proteger: ele está sempre aberto a ajudar os irmãos.
+Esse Lai (禮) é o mesmo de [Moy Wu Lai (梅護禮)](https://scholion.thluiz.com/notes/moy-wu-lai/), meu querido Si Hing (師兄) Vladimir Anchieta. Se tem uma pessoa que não faz cerimônia é ele, sempre que se propõe a fazer algo ele o faz. O que balanceia com o Wu (護) de proteger: ele está sempre aberto a ajudar os irmãos.
 
 Lembrei desse kuen kuet (拳訣) escrevendo sobre DDD e Arquitetura Hexagonal. Quando um projeto não é complexo, as práticas viram cerimônia desnecessária.
 
