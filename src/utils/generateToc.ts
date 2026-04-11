@@ -29,9 +29,15 @@ export function generateToc(
 	const bodyHeadings = headings.filter(
 		({ depth }) => depth >= minHeadingLevel && depth <= maxHeadingLevel,
 	);
+
+	// Normalize depths so the shallowest heading starts at minHeadingLevel
+	const minDepth = Math.min(...bodyHeadings.map((h) => h.depth));
+	const depthOffset = minDepth - minHeadingLevel;
+
 	const toc: Array<TocItem> = [];
 
-	for (const heading of bodyHeadings) injectChild(toc, { ...heading, children: [] });
+	for (const heading of bodyHeadings)
+		injectChild(toc, { ...heading, depth: heading.depth - depthOffset, children: [] });
 
 	return toc;
 }
