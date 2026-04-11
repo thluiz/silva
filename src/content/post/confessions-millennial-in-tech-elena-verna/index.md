@@ -4,7 +4,14 @@ description: "Elena Verna lista cinco angústias de quem trabalha com tech na er
 publishDate: "2026-04-09T10:37:22+01:00"
 tags: ["ai", "carreira", "mercado-de-trabalho"]
 lang: pt
+coverImage:
+  src: "./anna-shvets-stressed-woman-pexels.jpg"
+  alt: "Mulher estressada olhando para um laptop — foto por Anna Shvets no Pexels"
 sources:
+  - title: "Foto: Stressed Woman Looking at a Laptop"
+    author: "Anna Shvets"
+    url: "https://www.pexels.com/photo/stressed-woman-looking-at-a-laptop-4226218/"
+    kind: image
   - title: "Confessions of a Millennial in Tech"
     author: "Elena Verna"
     url: "https://www.elenaverna.com/p/confessions-of-a-millennial-in-tech"
@@ -16,6 +23,8 @@ sources:
     url: "https://www.linkedin.com/in/stellavaz/"
     kind: friend
 ---
+
+## Provocação: Post do LinkeDisney
 
 [Post interessante](https://www.linkedin.com/posts/elenaverna_ai-activity-7447004362733826048-eAR1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAQ4F4cBAaOZwwnEmZExG7hhk_I_oinkXPM) no LinkeDisney, compartilhado pela [Stella lindona](https://www.linkedin.com/in/stellavaz/):
 
@@ -39,6 +48,8 @@ sources:
 *And lastly, the question I keep coming back to: Are we the last generation that built careers around software? We leaned all the way in. Learned the tools, the systems, the playbooks. Rode cloud. Drove digital transformation. Built careers on knowing how to operate software better than others. We're also the sandwich generation that still explains software to our parents and now has to explain AI to our kids... while sprinting to automate/eliminate our own jobs.*
 
 *I don't have the answers. I'm just sharing... And I know we will figure it out.*
+
+## Minhas observações
 
 As duas últimas colocações dela são mais relevantes:
 
