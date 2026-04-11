@@ -3,6 +3,7 @@ title: "拳無禮讓，棍無兩響"
 description: "Com o punho não faça cerimônia, o bastão não faz dois sons. Kuen kuet do Ving Tsun sobre decisão e economia de gesto."
 publishDate: "2026-04-09"
 tags: ["ving tsun", "kuen kuit", "kung fu", "拳訣"]
+pinned: true
 lang: "pt"
 coverImage:
   src: "./bamboo-jupter-moon-unsplash.jpg"
