@@ -239,6 +239,88 @@
   }
 }
 
+/* Post layout with optional TOC sidebar */
+.silva-post-layout--toc {
+  display: grid;
+  grid-template-columns: 1fr 220px;
+  gap: 2rem;
+  align-items: start;
+  margin-right: calc(-220px - 2rem);
+}
+
+.silva-toc {
+  position: sticky;
+  top: 5rem;
+  max-height: calc(100vh - 6rem);
+  overflow-y: auto;
+  margin-top: 2rem;
+  padding: 1rem 1.25rem;
+  font-size: 0.8rem;
+  line-height: 1.5;
+  background: oklch(99.5% 0.005 155);
+  border: 1px solid color-mix(in oklch, var(--color-muted) 25%, transparent);
+  border-radius: 0.75rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+
+:where([data-theme="dark"]) .silva-toc {
+  background: oklch(18% 0.005 155);
+  border-color: color-mix(in oklch, var(--color-muted) 20%, transparent);
+}
+
+.silva-toc-title {
+  display: block;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--color-accent-2);
+  text-decoration: none;
+  margin: 0 0 0.5rem;
+}
+
+.silva-toc-title:hover {
+  color: var(--color-accent);
+}
+
+.silva-toc nav ol {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.silva-toc nav ol ol {
+  padding-left: 0.75rem;
+}
+
+.silva-toc nav a {
+  display: block;
+  padding: 0.2rem 0;
+  padding-left: 0.5rem;
+  color: var(--color-muted);
+  text-decoration: none;
+  border-left: 2px solid transparent;
+}
+
+.silva-toc nav a:hover {
+  color: var(--color-accent);
+  border-left-color: var(--color-accent);
+}
+
+@media (max-width: 1024px) {
+  .silva-post-layout--toc {
+    display: flex;
+    flex-direction: column;
+    margin-right: 0;
+  }
+
+  .silva-toc {
+    order: -1;
+    position: static;
+    max-height: none;
+    margin: 0 0 1rem;
+    width: 100%;
+  }
+}
+
 .silva-tag-count {
   font-size: 0.6rem;
   font-weight: 500;
