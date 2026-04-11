@@ -1,31 +1,37 @@
 import { html } from "satori-html";
-import { siteConfig } from "@/site.config";
 
-// OG image markup, use https://og-playground.vercel.app/ to design your own.
-export const ogMarkup = (title: string, pubDate: string) =>
-	html`<div tw="flex flex-col w-full h-full bg-[#1d1f21] text-[#c9cacc]">
-		<div tw="flex flex-col flex-1 w-full p-10 justify-center">
-			<p tw="text-2xl mb-6">${pubDate}</p>
-			<h1 tw="text-6xl font-bold leading-snug text-white">${title}</h1>
+const MAX_TITLE = 90;
+const MAX_DESC = 250;
+
+function truncate(str: string, max: number) {
+	return str.length > max ? str.slice(0, max - 3) + "..." : str;
+}
+
+export const ogMarkup = (
+	title: string,
+	pubDate: string,
+	description?: string,
+	tags?: string[],
+) => {
+	const safeTitle = truncate(title, MAX_TITLE);
+	const safeDesc = description ? truncate(description, MAX_DESC) : "";
+	const tagStr = tags?.slice(0, 3).map((t) => `#${t}`).join("  ") ?? "";
+
+	const template = `<div tw="flex flex-col w-full h-full bg-[#1d1f21] text-[#c9cacc]" style="font-family: Roboto Mono">
+		<div tw="flex flex-col w-full px-16 pt-10">
+			<p tw="text-4xl mb-4" style="color: #9ca3af">silva.thluiz.com</p>
+			<h1 tw="text-5xl font-bold leading-tight text-white m-0">${safeTitle}</h1>
 		</div>
-		<div tw="flex items-center justify-between w-full p-10 border-t border-[#2bbc89] text-xl">
-			<div tw="flex items-center">
-				<svg height="60" fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 272 480">
-					<path
-						fill="#cdffb8"
-						d="M181.334 93.333v-40L226.667 80v40zM136.001 53.333 90.667 26.667v426.666L136.001 480zM45.333 220 0 193.334v140L45.333 360z"
-					/>
-					<path
-						fill="#d482ab"
-						d="M90.667 26.667 136.001 0l45.333 26.667-45.333 26.666zM181.334 53.33l45.333-26.72L272 53.33 226.667 80zM136 240l-45.333-26.67v53.34zM0 193.33l45.333-26.72 45.334 26.72L45.333 220zM181.334 93.277 226.667 120l-45.333 26.67z"
-					/>
-					<path
-						fill="#2abc89"
-						d="m136 53.333 45.333-26.666v120L226.667 120V80L272 53.333V160l-90.667 53.333v240L136 480V306.667L45.334 360V220l45.333-26.667v73.334L136 240z"
-					/>
-				</svg>
-				<p tw="ml-3 font-semibold">${siteConfig.title}</p>
+		${safeDesc ? `<div tw="flex w-full px-16 mt-4"><p tw="text-3xl leading-snug m-0" style="color: #b8b8b8">${safeDesc}</p></div>` : ""}
+		<div tw="flex flex-col mt-auto w-full px-16 pb-8">
+			<div tw="flex items-center text-3xl">
+				<p tw="font-bold" style="color: #4cc908">T L Si -</p>
+				<p tw="ml-2 font-bold" style="font-family: Noto Sans SC; color: #c81e1e">知友士</p>
+				<p tw="ml-6" style="color: #9ca3af">${pubDate}</p>
 			</div>
-			<p>by ${siteConfig.author}</p>
+			${tagStr ? `<div tw="flex justify-end text-2xl mt-1"><p style="color: #84a59d">${tagStr}</p></div>` : ""}
 		</div>
 	</div>`;
+
+	return html(template);
+};

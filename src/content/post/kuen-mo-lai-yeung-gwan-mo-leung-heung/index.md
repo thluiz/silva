@@ -4,6 +4,9 @@ description: "Com o punho não faça cerimônia, o bastão não faz dois sons. K
 publishDate: "2026-04-09"
 tags: ["ving tsun", "kuen kuit", "kung fu", "拳訣"]
 lang: "pt"
+coverImage:
+  src: "./bamboo-jupter-moon-unsplash.jpg"
+  alt: "Bambuzal com folhas no chão. Foto de jupter moon no Unsplash"
 sources:
   - title: "Hai Tong por Moy Yat (documento interno)"
     author: "Moy Yat"

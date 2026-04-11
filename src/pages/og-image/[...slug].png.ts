@@ -3,6 +3,8 @@ import type { APIContext, InferGetStaticPropsType } from "astro";
 import satori, { type SatoriOptions } from "satori";
 import RobotoMonoBold from "@/assets/roboto-mono-700.ttf";
 import RobotoMono from "@/assets/roboto-mono-regular.ttf";
+import NotoSansSC from "@/assets/noto-sans-sc-400.woff";
+import NotoSansSCBold from "@/assets/noto-sans-sc-700.woff";
 import { getAllPosts } from "@/data/post";
 import { getFormattedDate } from "@/utils/date";
 import { ogMarkup } from "./_ogMarkup";
@@ -22,6 +24,18 @@ const ogOptions: SatoriOptions = {
 			style: "normal",
 			weight: 700,
 		},
+		{
+			data: Buffer.from(NotoSansSC),
+			name: "Noto Sans SC",
+			style: "normal",
+			weight: 400,
+		},
+		{
+			data: Buffer.from(NotoSansSCBold),
+			name: "Noto Sans SC",
+			style: "normal",
+			weight: 700,
+		},
 	],
 	height: 630,
 	width: 1200,
@@ -30,13 +44,10 @@ const ogOptions: SatoriOptions = {
 type Props = InferGetStaticPropsType<typeof getStaticPaths>;
 
 export async function GET(context: APIContext) {
-	const { pubDate, title } = context.props as Props;
+	const { pubDate, title, description, tags } = context.props as Props;
 
-	const postDate = getFormattedDate(pubDate, {
-		month: "long",
-		weekday: "long",
-	});
-	const svg = await satori(ogMarkup(title, postDate), ogOptions);
+	const postDate = pubDate.toISOString().slice(0, 10);
+	const svg = await satori(ogMarkup(title, postDate, description, tags), ogOptions);
 	const pngBuffer = new Resvg(svg).render().asPng();
 	const png = new Uint8Array(pngBuffer);
 	return new Response(png, {
@@ -57,6 +68,8 @@ export async function getStaticPaths() {
 			props: {
 				pubDate: post.data.updatedDate ?? post.data.publishDate,
 				title: post.data.title,
+				description: post.data.description,
+				tags: post.data.tags,
 			},
 		}))
 		.toArray();
