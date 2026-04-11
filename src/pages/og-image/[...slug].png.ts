@@ -6,7 +6,7 @@ import RobotoMono from "@/assets/roboto-mono-regular.ttf";
 import NotoSansSC from "@/assets/noto-sans-sc-400.woff";
 import NotoSansSCBold from "@/assets/noto-sans-sc-700.woff";
 import { getAllPosts } from "@/data/post";
-import { getFormattedDate } from "@/utils/date";
+
 import { ogMarkup } from "./_ogMarkup";
 
 const ogOptions: SatoriOptions = {
