@@ -6,24 +6,32 @@ const year = new Date().getFullYear();
 ---
 
 <footer
-	class="text-muted mt-auto flex w-full flex-col items-center justify-center gap-y-2 pt-20 pb-4 text-center align-top font-semibold sm:flex-row sm:justify-between sm:text-xs"
+	class="text-muted mt-auto flex w-full flex-col items-center gap-y-3 pt-20 pb-4 text-center font-semibold text-xs"
 >
-	<div class="me-0 flex items-center gap-2 sm:me-4">
-		&copy; {siteConfig.author}
-		{year}.<span class="inline-block">&nbsp;·&nbsp;{siteConfig.title}&nbsp;<span style="color: #c81e1e; font-weight: bold;">知友士</span>&nbsp;</span>
-		<a class="hover:text-link inline-block" href="https://github.com/thluiz" target="_blank" rel="noreferrer">
-			<Icon aria-hidden="true" class="h-4 w-4" focusable="false" name="mdi:github" />
-			<span class="sr-only">Github</span>
-		</a>
-	</div>
-	<nav aria-labelledby="footer_links" class="sm:divide-muted flex gap-x-2 sm:gap-x-0 sm:divide-x">
+	<nav aria-labelledby="footer_links" class="flex gap-x-4">
 		<p id="footer_links" class="sr-only">More on this site</p>
 		{
 			menuLinks.map((link) => (
-				<a class="hover:text-global-text px-4 py-2 hover:underline sm:py-0" href={link.path}>
+				<a class="hover:text-global-text hover:underline" href={link.path}>
 					{link.title}
 				</a>
 			))
 		}
 	</nav>
+	<div class="flex items-center gap-1 flex-wrap justify-center">
+		<span>&copy; {siteConfig.author} {year}</span>
+		<span>·</span>
+		<a class="underline hover:text-link" href="/about/">{siteConfig.title}</a>
+		<span>·</span>
+		<a class="hover:text-link" href="https://scholion.thluiz.com/notes/moy-chi-yau-si/" target="_blank" rel="noreferrer"><span class="underline" style="color: #c81e1e; font-weight: bold;">知友士</span></a>
+		<span>·</span>
+		<a class="underline hover:text-link" href="https://scholion.thluiz.com/notes/o-que-e-um-scholion-e-marginalia" target="_blank" rel="noreferrer">Scholion</a>
+		<span>·</span>
+		<a class="underline hover:text-link" href="https://scholion.thluiz.com/notes/licenca-cc-by-sa/" target="_blank" rel="noreferrer" title="Creative Commons BY-SA 4.0">CC BY-SA</a>
+		<span>·</span>
+		<a class="hover:text-link inline-block" href="https://github.com/thluiz" target="_blank" rel="noreferrer">
+			<Icon aria-hidden="true" class="h-4 w-4" focusable="false" name="mdi:github" />
+			<span class="sr-only">Github</span>
+		</a>
+	</div>
 </footer>

@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-04-11
+
+### Features
+- OG image redesenhada: URL no topo, título+descrição, assinatura T L Si - 知友士 com fonte CJK (Noto Sans SC), tags no rodapé
+- Fonte Noto Sans SC (regular + bold) para renderização de ideogramas nas OG images
+- Cover image no post Kuen Mo Lai Yeung (bambuzal, jupter moon/Unsplash)
+- Footer reorganizado em duas linhas com links para About, Scholion, nota Moy Chi Yau Si, licença CC BY-SA
+- Licença CC BY-SA 4.0 para conteúdo (LICENSE-content)
+- Favicon trocado para selo 友 (Yau)
+- Footer com 知友士 completo
+
 ## 2026-04-10
 
 ### Features
