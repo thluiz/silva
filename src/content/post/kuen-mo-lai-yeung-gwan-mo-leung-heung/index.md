@@ -4,6 +4,7 @@ description: "Com o punho não faça cerimônia, o bastão não faz dois sons. K
 publishDate: "2026-04-09"
 tags: ["ving tsun", "kuen kuit", "kung fu", "拳訣"]
 pinned: true
+pin_weight: 1
 lang: "pt"
 coverImage:
   src: "./bamboo-jupter-moon-unsplash.jpg"

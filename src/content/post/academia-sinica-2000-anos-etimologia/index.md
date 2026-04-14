@@ -4,6 +4,52 @@ description: "O Shuowen Jiezi (100 d.C.), filologia chinesa, timeline com as lí
 publishDate: "2026-04-14"
 tags: ["etimologia", "chinês", "linguística"]
 lang: "pt"
+pinned: true
+pin_weight: 2
+coverImage:
+  src: "./academia-sinica-gate.jpg"
+  alt: "Portão da Academia Sinica, Taipei, Taiwan"
+sources:
+  - title: "Foto: Academia Sinica Gate"
+    author: "Ayo LIU"
+    url: "https://commons.wikimedia.org/wiki/File:Academia_sinica_gate.jpg"
+    kind: image
+  - title: "Foto: Capa do Shuowen zhen ben"
+    url: "https://commons.wikimedia.org/wiki/File:Shuowen.jpg"
+    kind: image
+  - title: "Capa: Nineteen Eighty-Four, primeira edição (1949)"
+    author: "Michael Kennard"
+    url: "https://commons.wikimedia.org/wiki/File:1984_first_edition_cover.jpg"
+    kind: image
+  - title: "Foto: Página do Shuowen Jiezi Zhu — verbete 士"
+    url: "https://ctext.org/shuo-wen-jie-zi/shi-bu1"
+    kind: image
+  - title: "說文解字 士部"
+    url: "https://ctext.org/shuo-wen-jie-zi/shi-bu1"
+  - title: "Shuowen Jiezi"
+    url: "https://en.wikipedia.org/wiki/Shuowen_Jiezi"
+  - title: "Xu Shen"
+    url: "https://en.wikipedia.org/wiki/Xu_Shen"
+  - title: "Duan Yucai"
+    url: "https://en.wikipedia.org/wiki/Duan_Yucai"
+  - title: "Xiaoxue (philology)"
+    url: "https://en.wikipedia.org/wiki/Xiaoxue_(philology)"
+  - title: "Chinese character classification"
+    url: "https://en.wikipedia.org/wiki/Chinese_character_classification"
+  - title: "Qieyun"
+    url: "https://en.wikipedia.org/wiki/Qieyun"
+  - title: "Phonetic series (Chinese characters)"
+    url: "https://en.wikipedia.org/wiki/Phonetic_series_(Chinese_characters)"
+  - title: "History of Portuguese"
+    url: "https://en.wikipedia.org/wiki/History_of_Portuguese"
+  - title: "Oaths of Strasbourg"
+    url: "https://en.wikipedia.org/wiki/Oaths_of_Strasbourg"
+  - title: "Academia Sinica"
+    url: "https://en.wikipedia.org/wiki/Academia_Sinica"
+  - title: "小學堂 (Xiaoxuetang)"
+    url: "https://xiaoxue.iis.sinica.edu.tw/"
+  - title: "CharDB"
+    url: "https://chardb.iis.sinica.edu.tw/"
 ---
 
 Por iniciativa do [Claudio Teixeira (Moy Kat Jo)](https://scholion.thluiz.com/notes/moy-kat-jo/) iniciamos os encontros regulares sobre o estudo de Cantonês instrumental com o [Si Fu 師父](https://scholion.thluiz.com/notes/os-dois-si-fu/). Acabamos ampliando o escopo para abordar também o Mandarim, de forma que um nome mais apropriado tem sido Chinês instrumental.
@@ -19,6 +65,8 @@ Para colocar mais um nível nessa piada, o nome em chinês é estranho: 中 sign
 Para descer mais um nível na piada: O Centro Central de Pesquisa não fica na China. Fundado pelo governo nacionalista (國民黨, Kuomintang) em 1928, acabou indo para Taiwan [em 1949](https://en.wikipedia.org/wiki/Academia_Sinica).
 
 Para nossa sorte, talvez para se afirmar culturalmente, Taiwan não costuma usar o dito chinês simplificado, recorrendo sempre à escrita tradicional. Para comprovar que está escrevendo o chinês correto, disponibilizou online toda a base do 說文解字注 (Shuōwén Jiězì Zhù).
+
+![Capa do Shuowen zhen ben](./shuowen.jpg)
 
 ### O Shuōwén Jiězì (說文解字)
 
@@ -41,6 +89,8 @@ A motivação desse esforço etimológico foi a queima dos livros proporcionada 
 
 _O leitor mais atento irá notar que eles chamam de 3 disciplinas, mas na verdade são 4. A última talvez seja mais uma lista de curiosidades, ou os fonemas eram agrupados com os radicais. De toda forma, os chineses tendem a evitar o número 4 [四 e a tetraphobia](https://scholion.thluiz.com/notes/si-numero-quatro/)_
 
+![段玉裁 (Duàn Yùcái, 1735–1815), retrato do 清代学者像传](./duan-yucai.jpg)
+
 ### E o que é o Zhù 注 em 說文解字注
 
 Séculos se passam, múltiplas guerras, dinastias vêm e vão, livros queimados aqui e acolá; durante a dinastia Qīng 清 essa preocupação ressurge: [段玉裁 (Duàn Yùcái, 1735–1815)](https://scholion.thluiz.com/notes/duan-yucai-shuowen-jiezi-zhu/), discípulo de 戴震 (Dài Zhèn), compilaria o maior trabalho filológico já realizado, recompilar o 說文解字.
@@ -52,6 +102,8 @@ O método de Duàn Yùcái foi comparar sistematicamente as edições existentes
 O texto chegou intacto aos dias de hoje. A primeira edição impressa saiu em 1815 (經韻樓刻本, blocos de madeira), no ano da morte dele. Partes do manuscrito autógrafo sobrevivem na Biblioteca de Shanghai (上海圖書館). A edição padrão moderna é da 中華書局 (Zhōnghuá Shūjú). Está disponível digitalmente no ctext.org e no Scripta Sinica da Academia Sinica.
 
 Quem estuda etimologia chinesa hoje consulta o Shuowen *através* do comentário de Duàn Yùcái.
+
+![Página do Shuowen Jiezi Zhu com o verbete 士 e a citação 孔子曰](./shuowen-jiezi-zhu-shi.png)
 
 ### O que 2000 anos de fofoca podem fazer?
 
@@ -76,3 +128,11 @@ Uma questão dos nossos tempos é o quanto as palavras às vezes dizem pouco. J�
 De toda forma, tenho muito orgulho do 士 que o Si Fu me nomeou já ter sido definido por Confúcio 😜
 
 _"Quem controla o presente, controla o passado, quem controla o passado controla o futuro"_ — George Orwell, *1984* (Part 1, Ch. 3)
+
+---
+
+*T L Si - Thiago Silva*<br/>
+*Moy Chi Yau Si*<br/>
+*梅 知 友 士*
+
+![Capa da primeira edição de Nineteen Eighty-Four, George Orwell, 1949](./1984-first-edition-cover.jpg)
