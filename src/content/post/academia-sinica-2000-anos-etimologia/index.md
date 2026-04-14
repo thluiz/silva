@@ -21,6 +21,9 @@ sources:
     author: "Michael Kennard"
     url: "https://commons.wikimedia.org/wiki/File:1984_first_edition_cover.jpg"
     kind: image
+  - title: "Retrato de 段玉裁 (Duàn Yùcái), 清代学者像传"
+    url: "https://commons.wikimedia.org/wiki/File:%E6%AE%B5%E7%8E%89%E8%A3%81.jpg"
+    kind: image
   - title: "Foto: Página do Shuowen Jiezi Zhu — verbete 士"
     url: "https://ctext.org/shuo-wen-jie-zi/shi-bu1"
     kind: image

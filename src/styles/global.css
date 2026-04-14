@@ -142,4 +142,8 @@
 	--tw-prose-links: var(--color-accent);
 	--tw-prose-quotes: var(--color-quote);
 	--tw-prose-th-borders: #666;
+
+	& img {
+		margin-inline: auto;
+	}
 }
