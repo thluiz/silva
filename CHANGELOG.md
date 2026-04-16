@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-04-16
+
+### Infrastructure
+- Deploy migrado de Azure Static Web Apps para AWS S3 + CloudFront (us-east-1). Workflow builda Astro com pnpm, sync `dist/` para S3 com cache diferenciado (HTML 1h, assets 1y immutable), invalida a distribution. Bucket privado servido via Origin Access Control; CloudFront Function reescreve pretty URLs para `index.html`; ACM wildcard `*.thluiz.com`.
+
 ## 2026-04-11
 
 ### Features
