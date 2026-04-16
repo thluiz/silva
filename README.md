@@ -177,7 +177,11 @@ You may be asked to included a snippet inside the **HEAD** tag of your website w
 
 ## Deploy
 
-[Astro docs](https://docs.astro.build/en/guides/deploy/) has a great section and breakdown of how to deploy your own Astro site on various platforms and their idiosyncrasies.
+**silva.thluiz.com** is served via AWS S3 + CloudFront (us-east-1). Pushes to `main` trigger a GitHub Actions workflow (`.github/workflows/deploy.yml`) that runs `pnpm build`, syncs `dist/` to S3 with tiered cache headers (HTML 1h, static assets 1y immutable), and invalidates the CloudFront distribution.
+
+---
+
+For your own instance: [Astro docs](https://docs.astro.build/en/guides/deploy/) has a great section and breakdown of how to deploy your own Astro site on various platforms and their idiosyncrasies.
 
 By default the site will be built (see [Commands](#commands) section above) to a `/dist` directory.
 
