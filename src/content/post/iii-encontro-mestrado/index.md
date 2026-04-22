@@ -16,6 +16,8 @@ sources:
     kind: image
   - title: "Captura de tela: Mestre Senior Julio Camacho e Thiago Silva durante a fala do Thiago no III Encontro"
     kind: image
+  - title: "Captura de tela: vista do III Encontro pelo celular, com Mestre Senior Julio Camacho em destaque"
+    kind: image
 ---
 
 O Programa de Mestrado alimenta o livro que venho escrevendo, um guia do sistema Ving Tsun lido pela lente do pensamento sistêmico. Si Fu abriu o terceiro encontro reafirmando o objetivo: *"queremos registrar esse material, escrevê-lo!"*
@@ -71,7 +73,11 @@ Si Fu insiste que Si Fu é função, não pessoa. Como pai é função. O Pedro,
 
 Na ponta do triângulo estão o sistema e a família, representada pelo Si Fu. A soberania do julgamento pessoal não dispensa o encontro com esses dois.
 
-Tem um ponto que ainda estou tentando acomodar no meu pensamento: ao que parece, Si Fu separa o sistema Ving Tsun apenas ao conjunto de técnicas. Eu tenho uma visão mais holística: o Sistema Ving Tsun se baseia na família Kung Fu se replicando e refinando geração após geração. Quando Leung Bok Toa atribui à fundadora, sua esposa, o nome do sistema, ele está dizendo, de certa forma, que o que ele tem veio de um anterior.
+![Vista do III Encontro pelo celular, com Si Fu em destaque](./meet-mobile-julio.png)
+
+### Acomodações
+
+Tem um ponto que ainda estou tentando acomodar: ao que parece, Si Fu separa o sistema Ving Tsun apenas ao conjunto de técnicas. Eu tenho uma visão mais holística: o Sistema Ving Tsun se baseia na família Kung Fu se replicando e refinando geração após geração. Quando Leung Bok Toa atribui à fundadora, sua esposa, o nome do sistema, ele está dizendo, de certa forma, que o que ele tem veio de um anterior.
 
 Quando Si Taai Gung afirmava que iria transmitir da mesma forma que aprendeu, reproduzia essa afirmação.
 
@@ -79,7 +85,7 @@ Quando Si Gung cria a ideia de denominação Moy Yat Ving Tsun, também está ec
 
 Quando nós nos vinculamos ao Instituto Julio Camacho, também rimamos o mesmo movimento.
 
-Para mim, a família é parte do sistema. É a partir dela que o sistema se refina e se perpetua (o que eu chamo de "pegadinha" sistêmica).
+Para mim, a família é parte do sistema. É a partir dela que o sistema se refina e se perpetua (o que eu chamo de "pegadinha" sistêmica: para melhorar no sistema é preciso transmiti-lo).
 
 O conjunto de técnicas não sobrevive no vácuo. Se assim fosse, poderia ser transmitido em livros, internet, vídeos. O que garante a legitimidade e eficiência do processo é o nosso vínculo com a geração imediatamente anterior, não adianta buscar atalhos ou promiscuidade.
 
