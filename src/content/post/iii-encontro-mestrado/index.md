@@ -33,7 +33,7 @@ O Programa de Mestrado alimenta o livro que venho escrevendo, um guia do sistema
 **[Mestre Pedro Henrique Corrêa — Humanidade é escutar o outro](https://scholion.thluiz.com/notes/pedro-henrique-correa-humanidade-escutar-o-outro/).** Kung Fu como habilidade adquirida no tempo, medida pela adaptabilidade ao ambiente. O ponto comum da família Moy Jo Lei Ou é a humanidade, e humanidade é escutar o outro. Pedro perguntou se ambientes perversos são de baixo potencial para Kung Fu. Si Fu respondeu que qualquer ambiente com troca favorece o desenvolvimento, e puxou o conceito freudiano de perverso como "dobrar em um caminho não natural".
 
 ![Mestre Pedro explicando para a filha o que é Kung Fu](./pedro-henrique-filha-colo.png)
-*Mestre Pedro explicando para a filha o que é Kung Fu*
+<p style="text-align: center; font-style: italic;">(Mestre Pedro explicando para a filha o que é Kung Fu)</p>
 
 **[Mestre Claudio Teixeira — Servir, liderar, legar](https://scholion.thluiz.com/notes/claudio-teixeira-tudo-reacao-servir-liderar-legar/).** Três movimentos. Se tudo é reação, a ideia de ação pura se desfaz e o Kung Fu vira refino da reação até ela carregar mais percepção. Escapar da ideia de dirigir é escapar da pretensão de controle. E uma tríade como definição: servir, liderar, legar. Si Fu pediu para retirar a cronologia. Quem lega segue servindo, quem lidera lidera em função de alguém.
 
