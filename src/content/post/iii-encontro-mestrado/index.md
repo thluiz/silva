@@ -26,9 +26,9 @@ O Programa de Mestrado alimenta o livro que venho escrevendo, um guia do sistema
 
 **[Mestre Márcio Lopes — A arte da excelência e o aretê grego](https://scholion.thluiz.com/notes/marcio-lopes-arete-arte-da-excelencia/).** Kung Fu como arte da excelência, aplicada ao cotidiano. Si Fu puxou o conceito grego de *aretê*: fazer precisamente o que precisa ser feito dentro do cosmos, entendido como uma organização datada. Usou a profissão do Márcio como exemplo: aretê em imóveis é colocar a pessoa na melhor casa possível.
 
-**[Marcos Davi — Kung Fu é vida](https://scholion.thluiz.com/notes/marcos-davi-kung-fu-e-vida/).** Definição herdada do Si Taai Gung. Único não-mestre do encontro, Marcos trouxe a casa como lugar de maior exigência, onde ele se pega não ouvindo, sendo "muito eu". Si Fu fez duas correções. Primeiro, separou Kung Fu (aspecto subjetivo) de Ving Tsun (aspecto objetivo): manter-se na linha central numa conversa é Kung Fu. Depois, puxou a etimologia de marcialidade: vem de Marte, mas a guerra original era a que o homem travava consigo mesmo.
+**[Marcos Davi — Kung Fu é vida](https://scholion.thluiz.com/notes/marcos-davi-kung-fu-e-vida/).** Definição herdada do Si Taai Gung. Único não-mestre do encontro, Marcos não se intimidou: trouxe a casa como lugar de maior exigência, onde ele se pega não ouvindo, sendo "muito eu". Si Fu fez duas colocações: primeiro, separou Kung Fu (aspecto subjetivo) de Ving Tsun (aspecto objetivo). Manter-se na linha central numa conversa é Kung Fu, ainda que baseado em um ponto do Sistema Ving Tsun. Depois, puxou a etimologia de marcialidade: vem de Marte, mas a guerra original era a que o homem travava consigo mesmo.
 
-**[Mestre Guilherme Farias — Os três pilares: trabalho, energia, maturidade](https://scholion.thluiz.com/notes/tres-pilares-kung-fu-trabalho-energia-maturidade/).** Abriu os trabalhos com uma leitura dos ideogramas de 功夫 como três camadas do praticante: 工 (trabalho mecânico), 力 (energia aplicada) e 夫 (maturidade que transborda para a vida). Si Fu complementou que o praticante está sempre em todas as etapas ao mesmo tempo, e que o saber sistêmico é interativo. A pessoa que faz Siu Nim Tau hoje não é a mesma que fez ontem.
+**[Mestre Guilherme Farias — Os três pilares: trabalho, energia, maturidade](https://scholion.thluiz.com/notes/tres-pilares-kung-fu-trabalho-energia-maturidade/).** Abriu os trabalhos com uma leitura dos ideogramas de 功夫 como três camadas do praticante: 工 (trabalho físico, as técnicas), 力 (energia aplicada) e 夫 (maturidade que transborda para a vida). Si Fu complementou que o praticante está sempre em todas as etapas ao mesmo tempo, e que o saber sistêmico é interativo. A pessoa que faz [Siu Nim Tau](https://scholion.thluiz.com/notes/etimologia-de-siu-nim-tau-xiao-nian-tou/) hoje não é a mesma que fez ontem.
 
 **[Mestre Pedro Henrique Corrêa — Humanidade é escutar o outro](https://scholion.thluiz.com/notes/pedro-henrique-correa-humanidade-escutar-o-outro/).** Kung Fu como habilidade adquirida no tempo, medida pela adaptabilidade ao ambiente. O ponto comum da família Moy Jo Lei Ou é a humanidade, e humanidade é escutar o outro. Pedro perguntou se ambientes perversos são de baixo potencial para Kung Fu. Si Fu respondeu que qualquer ambiente com troca favorece o desenvolvimento, e puxou o conceito freudiano de perverso como "dobrar em um caminho não natural".
 
@@ -84,6 +84,12 @@ Quando nós nos vinculamos ao Instituto Julio Camacho, também rimamos o mesmo m
 Para mim, a família é parte do sistema. É a partir dela que o sistema se refina e se perpetua (o que eu chamo de "pegadinha" sistêmica: para melhorar no sistema é preciso transmiti-lo).
 
 O conjunto de técnicas não sobrevive no vácuo. Se assim fosse, poderia ser transmitido em livros, internet, vídeos. O que garante a legitimidade e eficiência do processo é o nosso vínculo com a geração imediatamente anterior, não adianta buscar atalhos ou promiscuidade.
+
+## Agradecimentos
+
+Agradeço por mais essa oportunidade que o Si Fu nos proporcionou e a todos os irmãos que participaram. Foram todos muito generosos em suas colocações, em cada fala demonstrando seus conhecimentos com a humildade necessária como mestres que são.
+
+Obrigado,
 
 ---
 
