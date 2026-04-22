@@ -81,7 +81,7 @@ Quando nós nos vinculamos ao Instituto Julio Camacho, também rimamos o mesmo m
 
 Para mim, a família é parte do sistema. É a partir dela que o sistema se refina e se perpetua (o que eu chamo de "pegadinha" sistêmica).
 
-O conjunto de técnicas não sobrevive no vácuo. Se assim fosse, poderia ser transmitido em livros, internet, vídeos. O que garante a legitimidade e eficiência do próprio processo é o nosso vínculo com a geração imediatamente anterior, não adianta buscar atalhos.
+O conjunto de técnicas não sobrevive no vácuo. Se assim fosse, poderia ser transmitido em livros, internet, vídeos. O que garante a legitimidade e eficiência do processo é o nosso vínculo com a geração imediatamente anterior, não adianta buscar atalhos ou promiscuidade.
 
 ---
 
