@@ -4,6 +4,18 @@ description: "Compilação das falas do III Encontro do Programa de Mestrado, co
 publishDate: "2026-04-22"
 tags: ["kung fu", "ving tsun", "programa de mestrado", "III encontro mestrado"]
 lang: "pt"
+coverImage:
+  src: "./iii-encontro-meet.jpg"
+  alt: "Grade de videoconferência do III Encontro do Programa de Mestrado, com Mestre Senior Julio Camacho, Thiago Silva (Chi Yau Si Moy), Claudio Teixeira, Pedro Henrique Corrêa, Vladimir Anchieta, Márcio Lopes e Marcos Davi"
+sources:
+  - title: "Captura de tela: Google Meet, III Encontro do Programa de Mestrado"
+    kind: image
+  - title: "Captura de tela: Mestre Pedro Henrique Corrêa com a filha no colo durante o III Encontro"
+    kind: image
+  - title: "Captura de tela: Mestre Senior Julio Camacho durante o III Encontro do Programa de Mestrado"
+    kind: image
+  - title: "Captura de tela: Mestre Senior Julio Camacho e Thiago Silva durante a fala do Thiago no III Encontro"
+    kind: image
 ---
 
 O Programa de Mestrado alimenta o livro que venho escrevendo, um guia do sistema Ving Tsun lido pela lente do pensamento sistêmico. Si Fu abriu o terceiro encontro reafirmando o objetivo: *"queremos registrar esse material, escrevê-lo!"*
@@ -20,15 +32,20 @@ Cada fala dos irmãos, cada pergunta, cada provocação vira matéria-prima.
 
 **[Mestre Pedro Henrique Corrêa — Humanidade é escutar o outro](https://scholion.thluiz.com/notes/pedro-henrique-correa-humanidade-escutar-o-outro/).** Kung Fu como habilidade adquirida no tempo, medida pela adaptabilidade ao ambiente. O ponto comum da família Moy Jo Lei Ou é a humanidade, e humanidade é escutar o outro. Pedro perguntou se ambientes perversos são de baixo potencial para Kung Fu. Si Fu respondeu que qualquer ambiente com troca favorece o desenvolvimento, e puxou o conceito freudiano de perverso como "dobrar em um caminho não natural".
 
+![Mestre Pedro explicando para a filha o que é Kung Fu](./pedro-henrique-filha-colo.png)
+*Mestre Pedro explicando para a filha o que é Kung Fu*
+
 **[Mestre Claudio Teixeira — Servir, liderar, legar](https://scholion.thluiz.com/notes/claudio-teixeira-tudo-reacao-servir-liderar-legar/).** Três movimentos. Se tudo é reação, a ideia de ação pura se desfaz e o Kung Fu vira refino da reação até ela carregar mais percepção. Escapar da ideia de dirigir é escapar da pretensão de controle. E uma tríade como definição: servir, liderar, legar. Si Fu pediu para retirar a cronologia. Quem lega segue servindo, quem lidera lidera em função de alguém.
 
 **[Mestre Vladimir Anchieta — Saber se adaptar ao outro](https://scholion.thluiz.com/notes/vladimir-anchieta-saber-se-adaptar-ao-outro/).** Kung Fu como relacionamento com o mundo. Adaptar é reconhecer o terreno e jogar dentro dele sem abandonar quem se é. O treino real acontece em casa, com esposa, filho e neta. Si Fu usou a fala (Vlad é cristão devoto) para abrir uma ética que vale para qualquer Si Fu: a forma mais honesta de ajudar o discípulo é dar ferramentas para ele pensar, não impor a própria crença.
 
+![Si Fu e Thiago Silva durante a fala do Thiago no III Encontro](./si-fu-thiago-pip.png)
+
 ### A arte de saber viver a própria vida
 
-Quando chegou a minha vez fui no sentido dos termos que não têm tradução, reforço sempre a ideia de que não há resposta sobre a [questão do que é Kung Fu](https://scholion.thluiz.com/notes/rascunho-sobre-o-que-e-kung-fu/).
+Quando chegou a minha vez, logo antes do Si Hing Vlad, fui no sentido dos termos que não têm tradução, reforço sempre a ideia de que não há resposta sobre a [questão do que é Kung Fu](https://scholion.thluiz.com/notes/rascunho-sobre-o-que-e-kung-fu/).
 
-Em termos de pensamento chinês, e do [aretê grego](https://scholion.thluiz.com/notes/arete-adequacao-ao-cosmos/) que o Si Fu acabara de discutir com o Márcio, o principal era saber como viver a própria vida. Si Gung comenta: Kung Fu é a arte de saber viver a própria vida. Viver de acordo com os próprios valores.
+Em termos de pensamento chinês, e do [*aretê* grego](https://scholion.thluiz.com/notes/arete-adequacao-ao-cosmos/) que o Si Fu acabara de discutir com o Márcio, o principal era saber como viver a própria vida. Si Gung comenta: Kung Fu é a arte de saber viver a própria vida. Viver de acordo com os próprios valores.
 
 Recorri ainda a outra frase, "a forma como você faz qualquer coisa é a forma como você faz todas as coisas", que achei por muito tempo que fosse do [Aristóteles](https://scholion.thluiz.com/notes/durant-excelencia-habito/). Não é. Mas a ideia vale: é cíclica.
 
@@ -40,13 +57,15 @@ Nesse ponto começa a penumbra do sistema. Sem sistema, o Kung Fu para de evolui
 
 Pode ser bom. Pode ser armadilha. A pessoa fica boa demais para fazer qualquer outra coisa que não seja o que já sabe.
 
+![Si Fu durante o III Encontro do Programa de Mestrado](./si-fu-julio-camacho.png)
+
 ## O Comentário do Si Fu
 
 [Si Fu](https://scholion.thluiz.com/notes/os-dois-si-fu/) complementa a penumbra que abri. Quando a pessoa constrói algo e julga o que está fazendo, esse julgamento é um estabelecimento soberano. Sober vem de "acima". É a pessoa estabelecendo, para si, o que são seus valores.
 
-Mas a soberania não flutua no vazio. Apoia-se num triângulo: Um vértice é a pessoa, o outro é o sistema, que dá arcabouço para continuar desenvolvendo; o último é o outro, e especificamente, a relação com o Sifu.
+Mas a soberania não flutua no vazio. Apoia-se num triângulo: um vértice é a pessoa, o outro é o sistema, que dá arcabouço para continuar desenvolvendo; o último é o outro, e especificamente, a relação com o Si Fu.
 
-**Não existe Kung Fu sem Sifu. Não existe auto-Kung Fu.**
+**Não existe Kung Fu sem Si Fu. Não existe auto-Kung Fu.**
 
 Si Fu insiste que Si Fu é função, não pessoa. Como pai é função. O Pedro, que estava com a filha no colo, não é pai em abstrato. É pai da filha dele. Dos bilhões de outras pessoas no mundo, ele não é pai de ninguém. Sem o filho, não tem pai. Sem o To Dai, não tem Si Fu e vice-versa.
 
@@ -62,4 +81,10 @@ Quando nós nos vinculamos ao Instituto Julio Camacho, também rimamos o mesmo m
 
 Para mim, a família é parte do sistema. É a partir dela que o sistema se refina e se perpetua (o que eu chamo de "pegadinha" sistêmica).
 
-O conjunto de técnicas não sobrevive no vácuo. Se o fosse, poderia ser transmitido em livros, internet, vídeos. O que garante a legitimidade e eficiência do próprio processo é o nosso vínculo com a geração imediatamente anterior, não adianta buscar atalhos.
+O conjunto de técnicas não sobrevive no vácuo. Se assim fosse, poderia ser transmitido em livros, internet, vídeos. O que garante a legitimidade e eficiência do próprio processo é o nosso vínculo com a geração imediatamente anterior, não adianta buscar atalhos.
+
+---
+
+*T L Si - Thiago Silva*<br/>
+*Moy Chi Yau Si*<br/>
+*梅 知 友 士*
