@@ -22,8 +22,6 @@ sources:
 
 O Programa de Mestrado alimenta o livro que venho escrevendo, um guia do sistema Ving Tsun lido pela lente do pensamento sistêmico. Si Fu abriu o terceiro encontro reafirmando o objetivo: *"queremos registrar esse material, escrevê-lo!"*
 
-Cada fala dos irmãos, cada pergunta, cada provocação vira matéria-prima.
-
 ### As falas dos Si Hing
 
 **[Mestre Márcio Lopes — A arte da excelência e o aretê grego](https://scholion.thluiz.com/notes/marcio-lopes-arete-arte-da-excelencia/).** Kung Fu como arte da excelência, aplicada ao cotidiano. Si Fu puxou o conceito grego de *aretê*: fazer precisamente o que precisa ser feito dentro do cosmos, entendido como uma organização datada. Usou a profissão do Márcio como exemplo: aretê em imóveis é colocar a pessoa na melhor casa possível.
@@ -47,7 +45,7 @@ Cada fala dos irmãos, cada pergunta, cada provocação vira matéria-prima.
 
 Quando chegou a minha vez, logo antes do Si Hing Vlad, fui no sentido dos termos que não têm tradução, reforço sempre a ideia de que não há resposta sobre a [questão do que é Kung Fu](https://scholion.thluiz.com/notes/rascunho-sobre-o-que-e-kung-fu/).
 
-Em termos de pensamento chinês, e do [*aretê* grego](https://scholion.thluiz.com/notes/arete-adequacao-ao-cosmos/) que o Si Fu acabara de discutir com o Márcio, o principal era saber como viver a própria vida. Si Gung comenta: Kung Fu é a arte de saber viver a própria vida. Viver de acordo com os próprios valores.
+Em termos de pensamento chinês, e do [*aretê* grego](https://scholion.thluiz.com/notes/arete-adequacao-ao-cosmos/) que o Si Fu acabara de discutir com o Márcio, o principal era saber como viver a própria vida. Si Gung comenta: *Kung Fu é a arte de saber viver a própria vida*. Viver de acordo com os próprios valores.
 
 Recorri ainda a outra frase, "a forma como você faz qualquer coisa é a forma como você faz todas as coisas", que achei por muito tempo que fosse do [Aristóteles](https://scholion.thluiz.com/notes/durant-excelencia-habito/). Não é. Mas a ideia vale: é cíclica.
 
@@ -71,13 +69,11 @@ Mas a soberania não flutua no vazio. Apoia-se num triângulo: um vértice é a 
 
 Si Fu insiste que Si Fu é função, não pessoa. Como pai é função. O Pedro, que estava com a filha no colo, não é pai em abstrato. É pai da filha dele. Dos bilhões de outras pessoas no mundo, ele não é pai de ninguém. Sem o filho, não tem pai. Sem o To Dai, não tem Si Fu e vice-versa.
 
-Na ponta do triângulo estão o sistema e a família, representada pelo Si Fu. A soberania do julgamento pessoal não dispensa o encontro com esses dois.
-
 ![Vista do III Encontro pelo celular, com Si Fu em destaque](./meet-mobile-julio.png)
 
 ### Acomodações
 
-Tem um ponto que ainda estou tentando acomodar: ao que parece, Si Fu separa o sistema Ving Tsun apenas ao conjunto de técnicas. Eu tenho uma visão mais holística: o Sistema Ving Tsun se baseia na família Kung Fu se replicando e refinando geração após geração. Quando Leung Bok Toa atribui à fundadora, sua esposa, o nome do sistema, ele está dizendo, de certa forma, que o que ele tem veio de um anterior.
+Tem um ponto que ainda estou tentando acomodar: ao que parece, a fala do Si Fu restringe o sistema Ving Tsun ao conjunto de técnicas. Eu tenho uma visão mais holística: o Sistema Ving Tsun se baseia na família Kung Fu se replicando e refinando geração após geração. Quando Leung Bok Toa atribui à fundadora, sua esposa, o nome do sistema, ele está dizendo que o que ele tem veio de um anterior.
 
 Quando Si Taai Gung afirmava que iria transmitir da mesma forma que aprendeu, reproduzia essa afirmação.
 
