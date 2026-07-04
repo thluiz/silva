@@ -19,6 +19,8 @@ Os três objetivos são Kung Fu, Sistema e Sistema Ving Tsun. Têm definição, 
 
 Os três subjetivos são Vida Kung Fu, Família Kung Fu e Genealogia. Aqui cada um pode dizer uma coisa diferente, e o Si Fu vê isso como riqueza. Onde o sistema é tangível, a vida Kung Fu é subjetiva: o que foi de um jeito para mim pode ter sido outra coisa para você.
 
+![O Si Fu anotando durante o encontro.](./si-fu-escrevendo.jpg)
+
 ### Por que escrever
 
 O Si Fu parou para uma pergunta: por que dividimos o mundo em pré-história e história? Porque num ponto passou a haver registro escrito. A escrita separa uma coisa da outra.
