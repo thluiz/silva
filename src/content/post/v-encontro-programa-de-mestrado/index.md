@@ -70,3 +70,9 @@ Daí a conversa foi parar na expressão "arte marcial". Fui atrás da origem do 
 O que o Si Fu deixou naquela noite resume o porquê de tudo isso. Não é para vender, não é para ficar famoso. É para deixar. Livro roda mão, não se desfaz. Fica para alguém, vai para a frente.
 
 Agora é escrever.
+
+---
+
+*T L Si - Thiago Silva*<br/>
+*Moy Chi Yau Si*<br/>
+*梅 知 友 士*
