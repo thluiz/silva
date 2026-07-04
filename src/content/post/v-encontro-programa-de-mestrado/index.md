@@ -51,6 +51,8 @@ Aí ele contou, pela primeira vez na família, a história do quadro com a sequ�
 
 Sobre o alcance, o Si Fu deu liberdade: cada um decide até onde pesquisa. A linhagem inteira, ou só as gerações com que teve contato direto, a partir do Si Gung.
 
+![Os participantes do encontro na chamada: o Si Fu escrevendo, o Mestre Guilherme, o Mestre Márcio, eu e o Mestre Antunes.](./participantes-encontro.jpg)
+
 ### A liberdade do sétimo capítulo
 
 O sétimo capítulo é o espaço de cada autor. Foi ali que o Mestre Antunes trouxe uma das observações criativas da noite, ao ler o sistema pelos pronomes: eu, tu, ele na parte física e intrapessoal; nós, vós, eles nas famílias, nas cerimônias, no público de fora. O Si Fu gostou e usou o exemplo para falar de liberdade.
