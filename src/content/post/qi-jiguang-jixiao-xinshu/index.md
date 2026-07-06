@@ -60,6 +60,8 @@ A mesma distinção que o vault registra entre [Kung Fu como processo](https://s
 
 Interessante que o nosso Gam Gai Duk Lap (金雞獨立) esteja aí, na segunda postura da lista.
 
+E quando Qi diz que "o punho golpeia sem que se saiba", trovão veloz que não dá tempo de tapar os ouvidos, não há como não pensar no [Lat Sau Jik Chung](https://scholion.thluiz.com/notes/kuen-kuit-lat-sau-jik-chung/): livre do contato, o gesto avança reto antes que se possa reagir.
+
 ![Formação Pato-Mandarim (鴛鴦陣), xilogravura do próprio Jixiao Xinshu. A obra é sobretudo um manual de táticas militares; o capítulo do punho é um só entre muitos.](./mandarin-duck-formation.jpg "Formação Pato-Mandarim (鴛鴦陣), xilogravura do Jixiao Xinshu")
 
 ---
