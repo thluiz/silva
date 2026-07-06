@@ -147,3 +147,17 @@
 		margin-inline: auto;
 	}
 }
+
+/* @tailwindcss/typography (loaded via @config) re-emits its default gray palette
+   AFTER the @utility prose vars, at equal specificity, so it wins — leaving prose
+   text/bold/headings static (non dark-aware) and low-contrast in dark mode.
+   Re-assert the themed, dark-aware palette with higher specificity (0-2-0). */
+[data-theme] .prose {
+	--tw-prose-body: var(--color-global-text);
+	--tw-prose-bold: var(--color-accent-2);
+	--tw-prose-headings: var(--color-accent-2);
+	--tw-prose-links: var(--color-accent);
+	--tw-prose-bullets: var(--color-global-text);
+	--tw-prose-code: var(--color-global-text);
+	--tw-prose-quotes: var(--color-quote);
+}
