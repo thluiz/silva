@@ -1,15 +1,15 @@
 ---
-title: "V Encontro do Programa de Mestrado: escrever para legar"
-description: "Registro do quinto encontro do Programa de Mestrado, com o Si Fu. A arquitetura do livro em nove capítulos, o registro escrito como legado, o sistema Ving Tsun como interdependência, a genealogia como crença e função, e a liberdade do sétimo capítulo."
+title: "IV Encontro do Programa de Mestrado: escrever para legar"
+description: "Registro do quarto encontro do Programa de Mestrado, com o Si Fu. A arquitetura do livro em nove capítulos, o registro escrito como legado, o sistema Ving Tsun como interdependência, a genealogia como crença e função, e a liberdade do sétimo capítulo."
 publishDate: "2026-07-04"
-tags: ["kung fu", "ving tsun", "programa de mestrado", "V encontro mestrado", "genealogia", "sistema", "vida kung fu", "registro"]
+tags: ["kung fu", "ving tsun", "programa de mestrado", "IV encontro mestrado", "genealogia", "sistema", "vida kung fu", "registro"]
 lang: "pt"
 coverImage:
   src: "./cover.jpg"
-  alt: "O quinto encontro do Programa de Mestrado por chamada de vídeo: o Mestre Guilherme, o Si Fu, o Mestre Antunes, eu e o Mestre Márcio."
+  alt: "O quarto encontro do Programa de Mestrado por chamada de vídeo: o Mestre Guilherme, o Si Fu, o Mestre Antunes, eu e o Mestre Márcio."
 ---
 
-No quinto encontro do Programa de Mestrado estávamos o Mestre Márcio ([Moy Si Ou](https://scholion.thluiz.com/notes/moy-si-ou/)), o Mestre Antunes ([Moy Shan Si](https://scholion.thluiz.com/notes/moy-shan-si/)), o Mestre Guilherme ([Moy Faat Lin](https://scholion.thluiz.com/notes/moy-faat-lin/)), eu ([Moy Chi Yau Si](https://scholion.thluiz.com/notes/moy-chi-yau-si/)) e o [Si Fu](https://scholion.thluiz.com/notes/os-dois-si-fu/). A ideia da noite era avançar no capítulo do Sistema Ving Tsun, mas o Si Fu aproveitou para aprofundar sobre a estrutura do livro que cada um de nós está escrevendo.
+No quarto encontro do Programa de Mestrado estávamos o Mestre Márcio ([Moy Si Ou](https://scholion.thluiz.com/notes/moy-si-ou/)), o Mestre Antunes ([Moy Shan Si](https://scholion.thluiz.com/notes/moy-shan-si/)), o Mestre Guilherme ([Moy Faat Lin](https://scholion.thluiz.com/notes/moy-faat-lin/)), eu ([Moy Chi Yau Si](https://scholion.thluiz.com/notes/moy-chi-yau-si/)) e o [Si Fu](https://scholion.thluiz.com/notes/os-dois-si-fu/). A ideia da noite era avançar no capítulo do Sistema Ving Tsun, mas o Si Fu aproveitou para aprofundar sobre a estrutura do livro que cada um de nós está escrevendo.
 
 ### A arquitetura do livro
 
@@ -63,7 +63,7 @@ Ele fez uma distinção fina sobre onde cabe essa autenticidade. Falando para di
 
 Na minha vez, apresentei o Ving Tsun como sistema iniciático de desenvolvimento de Kung Fu, estruturado a partir de uma família. Vai além do sistema corporal de combate simbólico. O corpo é o caminho mais direto para desenvolver [Kung Fu](https://scholion.thluiz.com/notes/kung-fu-tao-bom-ate-para-lutar/). Há quem não tenha o corpo como mecanismo. Se o sistema fosse só as listas, bastaria passar a lista, e não basta: sem a relação familiar, ninguém recebe a chave para lê-la. Por isso o sistema nasce quando o nome passa de um para outro, individualmente.
 
-Daí a conversa foi parar na expressão "arte marcial". Fui atrás da origem do termo. O primeiro registro ocidental de [功夫](https://scholion.thluiz.com/notes/gong-fu-etimologia/) é de [Amiot](https://scholion.thluiz.com/notes/amiot-cong-fou-bonzes-tao-ssee/), jesuíta francês em Pequim, em 1779. Ele descreveu o Cong-Fou como ginástica médica taoísta, não como prática de combate. O general Ming [Qi Jiguang](https://scholion.thluiz.com/notes/qi-jiguang-jixiao-xinshu/) já considerava, no século XVI, o combate desarmado inútil no campo de batalha, útil só para condicionar as tropas e construir confiança. Para mim, "marcial" remete a Marte, palavra de guerra, e descreve mal o que fazemos.
+Daí a conversa foi parar na expressão "arte marcial". Fui atrás da origem do termo. O primeiro registro ocidental de [功夫](https://scholion.thluiz.com/notes/gong-fu-etimologia/) é de [Amiot](https://scholion.thluiz.com/notes/amiot-cong-fou-bonzes-tao-ssee/), jesuíta francês em Pequim, em 1779. Ele descreveu o Cong-Fou como ginástica médica taoísta, não como prática de combate. O general Ming [Qi Jiguang](https://silva.thluiz.com/posts/qi-jiguang-jixiao-xinshu/) já considerava, no século XVI, o combate desarmado inútil no campo de batalha, útil só para condicionar as tropas e construir confiança. Para mim, "marcial" remete a Marte, palavra de guerra, e descreve mal o que fazemos.
 
 Para o Si Fu, o motivo é deixar registro para a próxima geração.
 
