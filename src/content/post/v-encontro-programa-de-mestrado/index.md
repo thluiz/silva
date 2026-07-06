@@ -31,7 +31,7 @@ Para o Si Fu, a escrita força critérios que a fala dispensa: definição, orde
 
 Depois da estrutura, cada um apresentou seu recorte do sistema, e o Si Fu foi pontuando.
 
-O Mestre Márcio resumiu o Ving Tsun como um sistema corporal de combate simbólico, seis domínios transmitidos em três fases: estruturada, semiestruturada e não estruturada. Si Fu destacou uma palavra: independente. Márcio comentou que os domínios funcionam de forma independente; são interdependentes, conectados. O que caracteriza um sistema é a [interconexão das peças](https://scholion.thluiz.com/notes/ludwig-von-bertalanffy-teoria-geral-dos-sistemas/): a posição que se desenvolve no Siu Nim Tau é o que permite a variação do [Cham Kiu](https://scholion.thluiz.com/notes/cham-kiu-moy-yat-atravessar-a-ponte-curta/). Uma prepara a outra. No mesmo espírito, trocou "estático" por estacionário.
+O Mestre Márcio resumiu o Ving Tsun como um sistema corporal de combate simbólico, seis domínios transmitidos em três fases: estruturada, semiestruturada e não estruturada. Si Fu destacou uma palavra: independente. Márcio comentou que os domínios funcionam de forma independente; são interdependentes, conectados. O que caracteriza um sistema é a [interconexão das peças](https://scholion.thluiz.com/notes/ludwig-von-bertalanffy-teoria-geral-dos-sistemas/): a posição que se desenvolve no Siu Nim Tau é o que permite a variação do [Cham Kiu](https://scholion.thluiz.com/notes/cham-kiu-moy-yat-atravessar-a-ponte-curta/). Uma prepara a outra. No mesmo espírito, trocou "estático" por estacionário no Siu Nim Tau.
 
 O Si Fu observou que na fala nos permitimos um descompromisso que a escrita cobra.
 
