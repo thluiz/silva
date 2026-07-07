@@ -28,7 +28,7 @@ O punho não faz cerimônia, não pede licença, não avisa. O bastão faz um so
 
 Ele sempre complementa que, segundo o Si Gung, o único som que o bastão deveria produzir é o do outro lado recebendo o Biu Gwan (dor! 😖😂).
 
-Conheci as duas metades separadas. "Com o punho não faça cerimônia." "O bastão não faz dois sons." Foi Si Baak (師伯) Anderson Maia quem me mostrou que as duas vêm juntas e rimam.
+Conheci as duas metades separadas. "Com o punho não faça cerimônia." "O bastão não faz dois sons." Foi Si Baak (師伯) Anderson Maia quem me mostrou que as duas vêm juntas e que rimam com [Lat Sau Jik Chung - 甩手直衝](https://scholion.thluiz.com/notes/kuen-kuit-lat-sau-jik-chung/)
 
 No Hai Tong por [Moy Yat](https://moyyat.institute), a descrição do Luk Dim Bun Gwan (六點半棍) registra: "O gwan faat é impetuoso e acurado. Por isso se diz gwan mo leung heung 棍無兩響."
 
